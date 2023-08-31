@@ -25,9 +25,10 @@ This repository contains solutions to various LeetCode problems. Each problem is
 
 This project is licensed under the [LICENSE](LICENSE).
 
+<!-- links -->
 [0001]: https://leetcode.com/problems/two-sum/
-[0001cpp]: ./algorithm/s0001/cpp/model.cc.cc
+[0001cpp]: ./algorithm/s0001/cpp/model.cc
 [0009]: https://leetcode.com/problems/palindrome-number/
-[0009cpp]: ./algorithm/s0009/cpp/model.cc.cc
+[0009cpp]: ./algorithm/s0009/cpp/model.cc
 [0013]: https://leetcode.com/problems/roman-to-integer/
-[0013cpp]: ./algorithm/s0013/cpp/model.cc.cc
+[0013cpp]: ./algorithm/s0013/cpp/model.cc
