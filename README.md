@@ -1,29 +1,33 @@
-<h1>LeetCode Solutions</h1>
+# Solutions for LeetCode Problems
 
-<p>This repository contains solutions to various LeetCode problems. Each problem is listed in a table with the problem name, a link to the problem, the chosen language for the implementation, a link to the implementation file, and the difficulty level of the problem.</p>
+**Table of Contents**
 
-<table>
-  <tr>
-    <th>Problem</th>
-    <th>Language</th>
-    <th>Difficulty</th>
-  </tr>
-  <tr>
-    <td><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></td>
-    <td><a href="./algorithm/cpp/two_sum.cc">C++</a></td>
-    <td>Easy</td>
-  </tr>
-  <td><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number
-</a></td>
-    <td><a href="./algorithm/cpp/palindrome_number.cc">C++</a></td>
-    <td>Easy</td>
-  </tr>
-  <tr>
-    <td><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer
-</a></td>
-    <td><a href="./algorithm/cpp/roman_to_integer.cc">C++</a></td>
-    <td>Easy</td>
-  </tr>
-</table>
+- [Solutions for LeetCode Problems](#solutions-for-leetcode-problems)
+  - [Introduction](#introduction)
+  - [Algorithm Problems](#algorithm-problems)
+  - [LICENSE](#license)
 
-<!-- Add more rows for additional problems -->
+## Introduction
+
+This repository contains solutions to various LeetCode problems. Each problem is listed in a table with the problem name, a link to the problem, the chosen language for the implementation, a link to the implementation file, and the difficulty level of the problem.
+
+## Algorithm Problems
+
+| #    | Problem                   | Language       | Difficulty |
+| ---- | ------------------------- | -------------- | ---------- |
+| 0001 | [Two Sum][0001]           | [C++][0001cpp] | Easy       |
+| 0009 | [Palindrome Number][0009] | [C++][0009cpp] | Easy       |
+| 0013 | [Roman to Integer][0013]  | [C++][0013cpp] | Easy       |
+
+## LICENSE
+
+---
+
+This project is licensed under the [LICENSE](LICENSE).
+
+[0001]: https://leetcode.com/problems/two-sum/
+[0001cpp]: ./algorithm/s0001/cpp/model.cc.cc
+[0009]: https://leetcode.com/problems/palindrome-number/
+[0009cpp]: ./algorithm/s0009/cpp/model.cc.cc
+[0013]: https://leetcode.com/problems/roman-to-integer/
+[0013cpp]: ./algorithm/s0013/cpp/model.cc.cc
