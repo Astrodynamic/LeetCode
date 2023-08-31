@@ -18,6 +18,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0001 | [Two Sum][0001]                                    | [C++][0001cpp] | Easy       |
 | 0009 | [Palindrome Number][0009]                          | [C++][0009cpp] | Easy       |
 | 0013 | [Roman to Integer][0013]                           | [C++][0013cpp] | Easy       |
+| 0014 | [Longest Common Prefix][0014]                      | [C++][0014cpp] | Easy       |
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                  | [C++][0876cpp] | Easy       |
@@ -37,12 +38,14 @@ This project is licensed under the [LICENSE](LICENSE).
 [0009cpp]: https://leetcode.com/submissions/detail/948438457/
 [0013]: https://leetcode.com/problems/roman-to-integer/
 [0013cpp]: https://leetcode.com/submissions/detail/949360425/
+[0014]: https://leetcode.com/problems/longest-common-prefix/
+[0014cpp]: https://leetcode.com/submissions/detail/1036936497/
 [0378]: https://leetcode.com/problems/ransom-note/
-[0378cpp]: https://leetcode.com/submissions/detail/948437602/
+[0378cpp]: https://leetcode.com/submissions/detail/1036903851/
 [0412]: https://leetcode.com/problems/fizz-buzz/
 [0412cpp]: https://leetcode.com/submissions/detail/1036866232/
 [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
-[0876cpp]: https://leetcode.com/submissions/detail/1036903851/
+[0876cpp]: https://leetcode.com/submissions/detail/1036889642/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
