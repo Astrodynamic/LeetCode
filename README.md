@@ -19,6 +19,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0009 | [Palindrome Number][0009]       | [C++][0009cpp] | Easy       |
 | 0013 | [Roman to Integer][0013]        | [C++][0013cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480] | [C++][1480cpp] | Easy       |
+| 1672 | [Richest Customer Wealth][1672] | [C++][1672cpp] | Easy       |
 
 ## LICENSE
 
@@ -27,10 +28,12 @@ This project is licensed under the [LICENSE](LICENSE).
 <!-- links -->
 
 [0001]: https://leetcode.com/problems/two-sum/
-[0001cpp]: ./algorithm/s0001/cpp/model.cc
+[0001cpp]: https://leetcode.com/submissions/detail/948426050/
 [0009]: https://leetcode.com/problems/palindrome-number/
-[0009cpp]: ./algorithm/s0009/cpp/model.cc
+[0009cpp]: https://leetcode.com/submissions/detail/948438457/
 [0013]: https://leetcode.com/problems/roman-to-integer/
-[0013cpp]: ./algorithm/s0013/cpp/model.cc
+[0013cpp]: https://leetcode.com/submissions/detail/949360425/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
-[1480cpp]: ./algorithm/s1480/cpp/model.cc
+[1480cpp]: https://leetcode.com/submissions/detail/1036830470/
+[1672]: https://leetcode.com/problems/richest-customer-wealth/
+[1672cpp]: https://leetcode.com/submissions/detail/1036852316/
