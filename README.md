@@ -21,6 +21,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0014 | [Longest Common Prefix][0014]                      | [C++][0014cpp] | Easy       |
 | 0020 | [Valid Parentheses][0020]                          | [C++][0020cpp] | Easy       |
 | 0021 | [Merge Two Sorted Lists][0021]                     | [C++][0021cpp] | Easy       |
+| 0026 | [Remove Duplicates from Sorted Array][0026]        | [C++][0026cpp] | Easy       |
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                  | [C++][0876cpp] | Easy       |
@@ -46,6 +47,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0020cpp]: https://leetcode.com/submissions/detail/1036952537/
 [0021]: https://leetcode.com/problems/merge-two-sorted-lists/
 [0021cpp]: https://leetcode.com/submissions/detail/1036960117/
+[0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[0026cpp]: https://leetcode.com/submissions/detail/1036967711/
 [0378]: https://leetcode.com/problems/ransom-note/
 [0378cpp]: https://leetcode.com/submissions/detail/1036903851/
 [0412]: https://leetcode.com/problems/fizz-buzz/
