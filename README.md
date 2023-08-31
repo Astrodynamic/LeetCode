@@ -19,6 +19,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0009 | [Palindrome Number][0009]                          | [C++][0009cpp] | Easy       |
 | 0013 | [Roman to Integer][0013]                           | [C++][0013cpp] | Easy       |
 | 0014 | [Longest Common Prefix][0014]                      | [C++][0014cpp] | Easy       |
+| 0020 | [Valid Parentheses][0020]                          | [C++][0020cpp] | Easy       |
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                  | [C++][0876cpp] | Easy       |
@@ -40,6 +41,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0013cpp]: https://leetcode.com/submissions/detail/949360425/
 [0014]: https://leetcode.com/problems/longest-common-prefix/
 [0014cpp]: https://leetcode.com/submissions/detail/1036936497/
+[0020]: https://leetcode.com/problems/valid-parentheses/
+[0020cpp]: https://leetcode.com/submissions/detail/1036952537/
 [0378]: https://leetcode.com/problems/ransom-note/
 [0378cpp]: https://leetcode.com/submissions/detail/1036903851/
 [0412]: https://leetcode.com/problems/fizz-buzz/
