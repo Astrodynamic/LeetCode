@@ -27,6 +27,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
 | 0628 | [Maximum Product of Three Numbers][0628]           | [C++][0628cpp] | Easy       |
+| 0680 | [Valid Palindrome II][0680]                        | [C++][0680cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                  | [C++][0876cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342] | [C++][1342cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                    | [C++][1480cpp] | Easy       |
@@ -62,6 +63,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0412cpp]: https://leetcode.com/submissions/detail/1036866232/
 [0628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [0628cpp]: https://leetcode.com/submissions/detail/1037692372/
+[0680]: https://leetcode.com/problems/valid-palindrome-ii/
+[0680cpp]: https://leetcode.com/submissions/detail/1037968613/
 [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
