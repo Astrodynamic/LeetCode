@@ -23,6 +23,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0021 | [Merge Two Sorted Lists][0021]                     | [C++][0021cpp] | Easy       |
 | 0026 | [Remove Duplicates from Sorted Array][0026]        | [C++][0026cpp] | Easy       |
 | 0121 | [Best Time to Buy and Sell Stock][0121]            | [C++][0121cpp] | Easy       |
+| 0125 | [Valid Palindrome][0125]                           | [C++][0125cpp] | Easy       |
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
 | 0628 | [Maximum Product of Three Numbers][0628]           | [C++][0628cpp] | Easy       |
@@ -53,6 +54,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0026cpp]: https://leetcode.com/submissions/detail/1036967711/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0121cpp]: https://leetcode.com/submissions/detail/1037934208/
+[0125]: https://leetcode.com/problems/valid-palindrome/
+[0125cpp]: https://leetcode.com/submissions/detail/1037955911/
 [0378]: https://leetcode.com/problems/ransom-note/
 [0378cpp]: https://leetcode.com/submissions/detail/1036903851/
 [0412]: https://leetcode.com/problems/fizz-buzz/
