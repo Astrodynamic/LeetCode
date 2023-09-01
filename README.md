@@ -25,6 +25,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0067 | [Add Binary][0067]                                 | [C++][0067cpp] | Easy       |
 | 0121 | [Best Time to Buy and Sell Stock][0121]            | [C++][0121cpp] | Easy       |
 | 0125 | [Valid Palindrome][0125]                           | [C++][0125cpp] | Easy       |
+| 0344 | [Reverse String][0344]                             | [C++][0344cpp] | Easy       |
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
 | 0628 | [Maximum Product of Three Numbers][0628]           | [C++][0628cpp] | Easy       |
@@ -60,6 +61,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0121cpp]: https://leetcode.com/submissions/detail/1037934208/
 [0125]: https://leetcode.com/problems/valid-palindrome/
 [0125cpp]: https://leetcode.com/submissions/detail/1037955911/
+[0344]: https://leetcode.com/problems/reverse-string/
+[0344cpp]: https://leetcode.com/submissions/detail/1038001012/
 [0378]: https://leetcode.com/problems/ransom-note/
 [0378cpp]: https://leetcode.com/submissions/detail/1036903851/
 [0412]: https://leetcode.com/problems/fizz-buzz/
