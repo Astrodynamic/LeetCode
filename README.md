@@ -80,5 +80,5 @@ This project is licensed under the [LICENSE](LICENSE).
 [1480cpp]: https://leetcode.com/submissions/detail/1036830470/
 [1672]: https://leetcode.com/problems/richest-customer-wealth/
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
-[2549]: https://leetcode.com/problems/count-distinct-numbers-on-a-board/
+[2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
