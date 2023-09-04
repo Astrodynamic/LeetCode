@@ -1,11 +1,10 @@
-# Solutions for LeetCode Problems
+\*# Solutions for LeetCode Problems
 
 **Table of Contents**
 
-- [Solutions for LeetCode Problems](#solutions-for-leetcode-problems)
-  - [Introduction](#introduction)
-  - [Algorithm Problems](#algorithm-problems)
-  - [LICENSE](#license)
+- [Introduction](#introduction)
+- [Algorithm Problems](#algorithm-problems)
+- [LICENSE](#license)
 
 ## Introduction
 
@@ -27,7 +26,8 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0121 | [Best Time to Buy and Sell Stock][0121]            | [C++][0121cpp] | Easy       |
 | 0125 | [Valid Palindrome][0125]                           | [C++][0125cpp] | Easy       |
 | 0141 | [Linked List Cycle][0141]                          | [C++][0141cpp] | Easy       |
-| 0217 | [Contains Duplicate][0217]                     | [C++][0217cpp] | Easy       |
+| 0217 | [Contains Duplicate][0217]                         | [C++][0217cpp] | Easy       |
+| 0219 | [Contains Duplicate II][0219]                      | [C++][0219cpp] | Easy       |
 | 0344 | [Reverse String][0344]                             | [C++][0344cpp] | Easy       |
 | 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
 | 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
@@ -71,6 +71,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0141cpp]: https://leetcode.com/submissions/detail/1040027578/
 [0217]: https://leetcode.com/problems/contains-duplicate/
 [0217cpp]: https://leetcode.com/submissions/detail/1040044205/
+[0219]: https://leetcode.com/problems/contains-duplicate-ii/
+[0219cpp]: https://leetcode.com/submissions/detail/1040064641/
 [0344]: https://leetcode.com/problems/reverse-string/
 [0344cpp]: https://leetcode.com/submissions/detail/1038001012/
 [0378]: https://leetcode.com/problems/ransom-note/
