@@ -37,6 +37,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342] | [C++][1342cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                    | [C++][1480cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                    | [C++][1672cpp] | Easy       |
+| 1929 | [Concatenation of Array][1929]                     | [C++][1929cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]            | [C++][2549cpp] | Easy       |
 
 ## LICENSE
@@ -91,5 +92,7 @@ This project is licensed under the [LICENSE](LICENSE).
 [1480cpp]: https://leetcode.com/submissions/detail/1036830470/
 [1672]: https://leetcode.com/problems/richest-customer-wealth/
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
+[1929]: https://leetcode.com/problems/concatenation-of-array/
+[1929cpp]: https://leetcode.com/submissions/detail/1047738300/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
