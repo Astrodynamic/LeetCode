@@ -1,10 +1,11 @@
-\*# Solutions for LeetCode Problems
+# Solutions for LeetCode Problems
 
 **Table of Contents**
 
-- [Introduction](#introduction)
-- [Algorithm Problems](#algorithm-problems)
-- [LICENSE](#license)
+- [Solutions for LeetCode Problems](#solutions-for-leetcode-problems)
+  - [Introduction](#introduction)
+  - [Algorithm Problems](#algorithm-problems)
+  - [LICENSE](#license)
 
 ## Introduction
 
@@ -12,33 +13,34 @@ This repository contains solutions to various LeetCode problems. Each problem is
 
 ## Algorithm Problems
 
-| #    | Problem                                            | Language       | Difficulty |
-| ---- | -------------------------------------------------- | -------------- | ---------- |
-| 0001 | [Two Sum][0001]                                    | [C++][0001cpp] | Easy       |
-| 0009 | [Palindrome Number][0009]                          | [C++][0009cpp] | Easy       |
-| 0013 | [Roman to Integer][0013]                           | [C++][0013cpp] | Easy       |
-| 0014 | [Longest Common Prefix][0014]                      | [C++][0014cpp] | Easy       |
-| 0020 | [Valid Parentheses][0020]                          | [C++][0020cpp] | Easy       |
-| 0021 | [Merge Two Sorted Lists][0021]                     | [C++][0021cpp] | Easy       |
-| 0026 | [Remove Duplicates from Sorted Array][0026]        | [C++][0026cpp] | Easy       |
-| 0066 | [Plus One][0066]                                   | [C++][0066cpp] | Easy       |
-| 0067 | [Add Binary][0067]                                 | [C++][0067cpp] | Easy       |
-| 0121 | [Best Time to Buy and Sell Stock][0121]            | [C++][0121cpp] | Easy       |
-| 0125 | [Valid Palindrome][0125]                           | [C++][0125cpp] | Easy       |
-| 0141 | [Linked List Cycle][0141]                          | [C++][0141cpp] | Easy       |
-| 0217 | [Contains Duplicate][0217]                         | [C++][0217cpp] | Easy       |
-| 0219 | [Contains Duplicate II][0219]                      | [C++][0219cpp] | Easy       |
-| 0344 | [Reverse String][0344]                             | [C++][0344cpp] | Easy       |
-| 0378 | [Ransom Note][0378]                                | [C++][0378cpp] | Easy       |
-| 0412 | [Fizz Buzz][0412]                                  | [C++][0412cpp] | Easy       |
-| 0628 | [Maximum Product of Three Numbers][0628]           | [C++][0628cpp] | Easy       |
-| 0680 | [Valid Palindrome II][0680]                        | [C++][0680cpp] | Easy       |
-| 0876 | [Middle of the Linked List][0876]                  | [C++][0876cpp] | Easy       |
-| 1342 | [Number of Steps to Reduce a Number to Zero][1342] | [C++][1342cpp] | Easy       |
-| 1480 | [Running Sum of 1d Array][1480]                    | [C++][1480cpp] | Easy       |
-| 1672 | [Richest Customer Wealth][1672]                    | [C++][1672cpp] | Easy       |
-| 1929 | [Concatenation of Array][1929]                     | [C++][1929cpp] | Easy       |
-| 2549 | [Count Distinct Numbers on Board][2549]            | [C++][2549cpp] | Easy       |
+| #    | Problem                                                       | Language       | Difficulty |
+| ---- | ------------------------------------------------------------- | -------------- | ---------- |
+| 0001 | [Two Sum][0001]                                               | [C++][0001cpp] | Easy       |
+| 0009 | [Palindrome Number][0009]                                     | [C++][0009cpp] | Easy       |
+| 0013 | [Roman to Integer][0013]                                      | [C++][0013cpp] | Easy       |
+| 0014 | [Longest Common Prefix][0014]                                 | [C++][0014cpp] | Easy       |
+| 0020 | [Valid Parentheses][0020]                                     | [C++][0020cpp] | Easy       |
+| 0021 | [Merge Two Sorted Lists][0021]                                | [C++][0021cpp] | Easy       |
+| 0026 | [Remove Duplicates from Sorted Array][0026]                   | [C++][0026cpp] | Easy       |
+| 0066 | [Plus One][0066]                                              | [C++][0066cpp] | Easy       |
+| 0067 | [Add Binary][0067]                                            | [C++][0067cpp] | Easy       |
+| 0121 | [Best Time to Buy and Sell Stock][0121]                       | [C++][0121cpp] | Easy       |
+| 0125 | [Valid Palindrome][0125]                                      | [C++][0125cpp] | Easy       |
+| 0141 | [Linked List Cycle][0141]                                     | [C++][0141cpp] | Easy       |
+| 0217 | [Contains Duplicate][0217]                                    | [C++][0217cpp] | Easy       |
+| 0219 | [Contains Duplicate II][0219]                                 | [C++][0219cpp] | Easy       |
+| 0344 | [Reverse String][0344]                                        | [C++][0344cpp] | Easy       |
+| 0378 | [Ransom Note][0378]                                           | [C++][0378cpp] | Easy       |
+| 0412 | [Fizz Buzz][0412]                                             | [C++][0412cpp] | Easy       |
+| 0628 | [Maximum Product of Three Numbers][0628]                      | [C++][0628cpp] | Easy       |
+| 0680 | [Valid Palindrome II][0680]                                   | [C++][0680cpp] | Easy       |
+| 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
+| 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
+| 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
+| 1672 | [Richest Customer Wealth][1672]                               | [C++][1672cpp] | Easy       |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square][1725] | [C++][1725cpp] | Easy       |
+| 1929 | [Concatenation of Array][1929]                                | [C++][1929cpp] | Easy       |
+| 2549 | [Count Distinct Numbers on Board][2549]                       | [C++][2549cpp] | Easy       |
 
 ## LICENSE
 
@@ -92,6 +94,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1480cpp]: https://leetcode.com/submissions/detail/1036830470/
 [1672]: https://leetcode.com/problems/richest-customer-wealth/
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
+[1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+[1725cpp]: https://leetcode.com/submissions/detail/1047761317/
 [1929]: https://leetcode.com/problems/concatenation-of-array/
 [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
