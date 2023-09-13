@@ -42,6 +42,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725] | [C++][1725cpp] | Easy       |
 | 1920 | [Build Array from Permutation][1920]                          | [C++][1920cpp] | Easy       |
 | 1929 | [Concatenation of Array][1929]                                | [C++][1929cpp] | Easy       |
+| 2469 | [Convert the Temperature][2469]                               | [C++][2469cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]                       | [C++][2549cpp] | Easy       |
 
 ## LICENSE
@@ -104,5 +105,7 @@ This project is licensed under the [LICENSE](LICENSE).
 [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
 [1929]: https://leetcode.com/problems/concatenation-of-array/
 [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
+[2469]: https://leetcode.com/problems/convert-the-temperature/
+[2469cpp]: https://leetcode.com/submissions/detail/1048639718/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
