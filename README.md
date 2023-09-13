@@ -35,6 +35,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0628 | [Maximum Product of Three Numbers][0628]                      | [C++][0628cpp] | Easy       |
 | 0680 | [Valid Palindrome II][0680]                                   | [C++][0680cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
+| 1108 | [Defanging an IP Address][1108]                               | [C++][1108cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                               | [C++][1672cpp] | Easy       |
@@ -89,6 +90,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0680cpp]: https://leetcode.com/submissions/detail/1037968613/
 [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
+[1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1108cpp]: https://leetcode.com/submissions/detail/1048635629/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
