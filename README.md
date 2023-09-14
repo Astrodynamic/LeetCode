@@ -37,6 +37,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                               | [C++][1108cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
+| 1470 | [Shuffle the Array][1470]                                     | [C++][1470cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                               | [C++][1672cpp] | Easy       |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725] | [C++][1725cpp] | Easy       |
@@ -95,6 +96,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
+[1470]: https://leetcode.com/problems/shuffle-the-array/
+[1470cpp]: https://leetcode.com/submissions/detail/1049530990/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [1480cpp]: https://leetcode.com/submissions/detail/1036830470/
 [1672]: https://leetcode.com/problems/richest-customer-wealth/
