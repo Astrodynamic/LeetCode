@@ -46,6 +46,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 2011 | [Final Value of Variable After Performing Operations][2011]   | [C++][2011cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                               | [C++][2469cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]                       | [C++][2549cpp] | Easy       |
+| 2769 | [Find the Maximum Achievable Number][2769]                    | [C++][2769cpp] | Easy       |
 
 ## LICENSE
 
@@ -115,3 +116,5 @@ This project is licensed under the [LICENSE](LICENSE).
 [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
+[2769]: https://leetcode.com/problems/find-the-maximum-achievable-score/
+[2769cpp]: https://leetcode.com/submissions/detail/1049548431/
