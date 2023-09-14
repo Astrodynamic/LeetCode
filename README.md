@@ -116,5 +116,5 @@ This project is licensed under the [LICENSE](LICENSE).
 [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
-[2769]: https://leetcode.com/problems/find-the-maximum-achievable-score/
+[2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
 [2769cpp]: https://leetcode.com/submissions/detail/1049548431/
