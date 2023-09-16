@@ -51,6 +51,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 2469 | [Convert the Temperature][2469]                               | [C++][2469cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]                       | [C++][2549cpp] | Easy       |
 | 2769 | [Find the Maximum Achievable Number][2769]                    | [C++][2769cpp] | Easy       |
+| 2798 | [Number of Employees Who Met the Target][2798]                | [C++][2798cpp] | Easy       |
 | 2824 | [Count Pairs Whose Sum is Less than Target][2824]             | [C++][2824cpp] | Easy       |
 
 ## LICENSE
@@ -131,5 +132,7 @@ This project is licensed under the [LICENSE](LICENSE).
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
 [2769cpp]: https://leetcode.com/submissions/detail/1049548431/
+[2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
+[2798cpp]: https://leetcode.com/submissions/detail/1050823191/
 [2824]: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 [2824cpp]: https://leetcode.com/submissions/detail/1050808683/
