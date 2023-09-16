@@ -46,6 +46,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1929 | [Concatenation of Array][1929]                                | [C++][1929cpp] | Easy       |
 | 2011 | [Final Value of Variable After Performing Operations][2011]   | [C++][2011cpp] | Easy       |
 | 2235 | [Add Two Integers][2235]                                      | [C++][2235cpp] | Easy       |
+| 2413 | [Smallest Even Multiple][2413]                                | [C++][2413cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                               | [C++][2469cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]                       | [C++][2549cpp] | Easy       |
 | 2769 | [Find the Maximum Achievable Number][2769]                    | [C++][2769cpp] | Easy       |
@@ -119,6 +120,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
 [2235]: https://leetcode.com/problems/add-two-integers/
 [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
+[2413]: https://leetcode.com/problems/smallest-even-multiple/
+[2413cpp]: https://leetcode.com/submissions/detail/1050815450/
 [2469]: https://leetcode.com/problems/convert-the-temperature/
 [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
