@@ -34,6 +34,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0412 | [Fizz Buzz][0412]                                             | [C++][0412cpp] | Easy       |
 | 0628 | [Maximum Product of Three Numbers][0628]                      | [C++][0628cpp] | Easy       |
 | 0680 | [Valid Palindrome II][0680]                                   | [C++][0680cpp] | Easy       |
+| 0771 | [Jewels and Stones][0771]                                     | [C++][0771cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                               | [C++][1108cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
@@ -100,6 +101,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0628cpp]: https://leetcode.com/submissions/detail/1037692372/
 [0680]: https://leetcode.com/problems/valid-palindrome-ii/
 [0680cpp]: https://leetcode.com/submissions/detail/1037968613/
+[0771]: https://leetcode.com/problems/jewels-and-stones/
+[0771cpp]: https://leetcode.com/submissions/detail/1050861136/
 [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
