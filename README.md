@@ -41,6 +41,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1470 | [Shuffle the Array][1470]                                     | [C++][1470cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
 | 1512 | [Number of Good Pairs][1512]                                  | [C++][1512cpp] | Easy       |
+| 1603 | [Design Parking System][1603]                                 | [C++][1603cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                               | [C++][1672cpp] | Easy       |
 | 1678 | [Goal Parser Interpretation][1678]                            | [C++][1678cpp] | Easy       |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725] | [C++][1725cpp] | Easy       |
@@ -111,8 +112,10 @@ This project is licensed under the [LICENSE](LICENSE).
 [1470cpp]: https://leetcode.com/submissions/detail/1049530990/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [1480cpp]: https://leetcode.com/submissions/detail/1036830470/
-[1512]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+[1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1512cpp]: https://leetcode.com/submissions/detail/1050836269/
+[1603]: https://leetcode.com/problems/design-parking-system/
+[1603cpp]: https://leetcode.com/submissions/detail/1050856642/
 [1672]: https://leetcode.com/problems/richest-customer-wealth/
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
