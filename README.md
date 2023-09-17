@@ -37,6 +37,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0771 | [Jewels and Stones][0771]                                     | [C++][0771cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                               | [C++][1108cpp] | Easy       |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]  | [C++][1281cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]  | [C++][1365cpp] | Easy       |
 | 1431 | [Kids With the Greatest Number of Candies][1431]              | [C++][1431cpp] | Easy       |
@@ -110,6 +111,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
+[1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+[1281cpp]: https://leetcode.com/submissions/detail/1051743818/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
