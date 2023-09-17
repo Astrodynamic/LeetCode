@@ -38,6 +38,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                               | [C++][1108cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]  | [C++][1365cpp] | Easy       |
 | 1431 | [Kids With the Greatest Number of Candies][1431]              | [C++][1431cpp] | Easy       |
 | 1470 | [Shuffle the Array][1470]                                     | [C++][1470cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
@@ -110,6 +111,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
+[1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1365cpp]: https://leetcode.com/submissions/detail/1051734090/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
