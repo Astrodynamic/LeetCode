@@ -36,6 +36,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp] | Easy       |
 | 0771 | [Jewels and Stones][0771]                                                  | [C++][0771cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp] | Easy       |
+| 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp] | Easy       |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp] | Easy       |
@@ -112,6 +113,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0771cpp]: https://leetcode.com/submissions/detail/1050861136/
 [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
+[0938]: https://leetcode.com/problems/range-sum-of-bst/
+[0938cpp]: https://leetcode.com/submissions/detail/1051825768/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
@@ -121,7 +124,7 @@ This project is licensed under the [LICENSE](LICENSE).
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1365cpp]: https://leetcode.com/submissions/detail/1051734090/
 [1379]: https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
-[1379cpp]: https://leetcode.com/submissions/detail/1051825768/
+[1379cpp]: https://leetcode.com/submissions/detail/1051774944/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
