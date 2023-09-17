@@ -50,6 +50,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1603 | [Design Parking System][1603]                                              | [C++][1603cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                                            | [C++][1672cpp] | Easy       |
 | 1678 | [Goal Parser Interpretation][1678]                                         | [C++][1678cpp] | Easy       |
+| 1720 | [Decode XORed Array][1720]                                                 | [C++][1720cpp] | Easy       |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp] | Easy       |
 | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp] | Easy       |
 | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp] | Easy       |
@@ -141,6 +142,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
 [1678cpp]: https://leetcode.com/submissions/detail/1050792706/
+[1720]: https://leetcode.com/problems/decode-xored-array/
+[1720cpp]: https://leetcode.com/submissions/detail/1051833450/
 [1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1725cpp]: https://leetcode.com/submissions/detail/1047761317/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
