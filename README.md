@@ -38,6 +38,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp] | Easy       |
 | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp] | Easy       |
+| 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp] | Easy       |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp] | Easy       |
 | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp] | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp] | Easy       |
@@ -121,6 +122,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0938cpp]: https://leetcode.com/submissions/detail/1051825768/
 [1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
+[1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1221cpp]: https://leetcode.com/submissions/detail/1051871448/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1281cpp]: https://leetcode.com/submissions/detail/1051743818/
 [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
