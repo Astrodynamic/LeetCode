@@ -42,6 +42,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp] | Easy       |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp] | Easy       |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp] | Easy       |
+| 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp] | Easy       |
 | 1431 | [Kids With the Greatest Number of Candies][1431]                           | [C++][1431cpp] | Easy       |
 | 1470 | [Shuffle the Array][1470]                                                  | [C++][1470cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                                            | [C++][1480cpp] | Easy       |
@@ -126,6 +127,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1365cpp]: https://leetcode.com/submissions/detail/1051734090/
 [1379]: https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 [1379cpp]: https://leetcode.com/submissions/detail/1051774944/
+[1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1389cpp]: https://leetcode.com/submissions/detail/1051840440/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
