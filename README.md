@@ -41,6 +41,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1431 | [Kids With the Greatest Number of Candies][1431]              | [C++][1431cpp] | Easy       |
 | 1470 | [Shuffle the Array][1470]                                     | [C++][1470cpp] | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
+| 1486 | [XOR Operation in an Array][1486]                             | [C++][1486cpp] | Easy       |
 | 1512 | [Number of Good Pairs][1512]                                  | [C++][1512cpp] | Easy       |
 | 1603 | [Design Parking System][1603]                                 | [C++][1603cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                               | [C++][1672cpp] | Easy       |
@@ -115,6 +116,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1470cpp]: https://leetcode.com/submissions/detail/1049530990/
 [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [1480cpp]: https://leetcode.com/submissions/detail/1036830470/
+[1486]: https://leetcode.com/problems/xor-operation-in-an-array/
+[1486cpp]: https://leetcode.com/submissions/detail/1051731597/
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1512cpp]: https://leetcode.com/submissions/detail/1050836269/
 [1603]: https://leetcode.com/problems/design-parking-system/
