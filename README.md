@@ -58,6 +58,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 2413 | [Smallest Even Multiple][2413]                                  | [C++][2413cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                                 | [C++][2469cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]                         | [C++][2549cpp] | Easy       |
+| 2574 | [Left and Right Sum Differences][2574]               | [C++][2574cpp] | Easy       |
 | 2769 | [Find the Maximum Achievable Number][2769]                      | [C++][2769cpp] | Easy       |
 | 2798 | [Number of Employees Who Met the Target][2798]                  | [C++][2798cpp] | Easy       |
 | 2824 | [Count Pairs Whose Sum is Less than Target][2824]               | [C++][2824cpp] | Easy       |
@@ -154,6 +155,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
+[2574]: https://leetcode.com/problems/left-and-right-sum-differences/
+[2574cpp]: https://leetcode.com/submissions/detail/1051760337/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
 [2769cpp]: https://leetcode.com/submissions/detail/1049548431/
 [2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
