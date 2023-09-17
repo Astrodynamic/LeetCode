@@ -13,53 +13,54 @@ This repository contains solutions to various LeetCode problems. Each problem is
 
 ## Algorithm Problems
 
-| #    | Problem                                                       | Language       | Difficulty |
-| ---- | ------------------------------------------------------------- | -------------- | ---------- |
-| 0001 | [Two Sum][0001]                                               | [C++][0001cpp] | Easy       |
-| 0009 | [Palindrome Number][0009]                                     | [C++][0009cpp] | Easy       |
-| 0013 | [Roman to Integer][0013]                                      | [C++][0013cpp] | Easy       |
-| 0014 | [Longest Common Prefix][0014]                                 | [C++][0014cpp] | Easy       |
-| 0020 | [Valid Parentheses][0020]                                     | [C++][0020cpp] | Easy       |
-| 0021 | [Merge Two Sorted Lists][0021]                                | [C++][0021cpp] | Easy       |
-| 0026 | [Remove Duplicates from Sorted Array][0026]                   | [C++][0026cpp] | Easy       |
-| 0066 | [Plus One][0066]                                              | [C++][0066cpp] | Easy       |
-| 0067 | [Add Binary][0067]                                            | [C++][0067cpp] | Easy       |
-| 0121 | [Best Time to Buy and Sell Stock][0121]                       | [C++][0121cpp] | Easy       |
-| 0125 | [Valid Palindrome][0125]                                      | [C++][0125cpp] | Easy       |
-| 0141 | [Linked List Cycle][0141]                                     | [C++][0141cpp] | Easy       |
-| 0217 | [Contains Duplicate][0217]                                    | [C++][0217cpp] | Easy       |
-| 0219 | [Contains Duplicate II][0219]                                 | [C++][0219cpp] | Easy       |
-| 0344 | [Reverse String][0344]                                        | [C++][0344cpp] | Easy       |
-| 0378 | [Ransom Note][0378]                                           | [C++][0378cpp] | Easy       |
-| 0412 | [Fizz Buzz][0412]                                             | [C++][0412cpp] | Easy       |
-| 0628 | [Maximum Product of Three Numbers][0628]                      | [C++][0628cpp] | Easy       |
-| 0680 | [Valid Palindrome II][0680]                                   | [C++][0680cpp] | Easy       |
-| 0771 | [Jewels and Stones][0771]                                     | [C++][0771cpp] | Easy       |
-| 0876 | [Middle of the Linked List][0876]                             | [C++][0876cpp] | Easy       |
-| 1108 | [Defanging an IP Address][1108]                               | [C++][1108cpp] | Easy       |
-| 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]  | [C++][1281cpp] | Easy       |
-| 1342 | [Number of Steps to Reduce a Number to Zero][1342]            | [C++][1342cpp] | Easy       |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]  | [C++][1365cpp] | Easy       |
-| 1431 | [Kids With the Greatest Number of Candies][1431]              | [C++][1431cpp] | Easy       |
-| 1470 | [Shuffle the Array][1470]                                     | [C++][1470cpp] | Easy       |
-| 1480 | [Running Sum of 1d Array][1480]                               | [C++][1480cpp] | Easy       |
-| 1486 | [XOR Operation in an Array][1486]                             | [C++][1486cpp] | Easy       |
-| 1512 | [Number of Good Pairs][1512]                                  | [C++][1512cpp] | Easy       |
-| 1603 | [Design Parking System][1603]                                 | [C++][1603cpp] | Easy       |
-| 1672 | [Richest Customer Wealth][1672]                               | [C++][1672cpp] | Easy       |
-| 1678 | [Goal Parser Interpretation][1678]                            | [C++][1678cpp] | Easy       |
-| 1725 | [Number Of Rectangles That Can Form The Largest Square][1725] | [C++][1725cpp] | Easy       |
-| 1920 | [Build Array from Permutation][1920]                          | [C++][1920cpp] | Easy       |
-| 1929 | [Concatenation of Array][1929]                                | [C++][1929cpp] | Easy       |
-| 2011 | [Final Value of Variable After Performing Operations][2011]   | [C++][2011cpp] | Easy       |
-| 2114 | [Maximum Number of Words Found in Sentences][2114]            | [C++][2114cpp] | Easy       |
-| 2235 | [Add Two Integers][2235]                                      | [C++][2235cpp] | Easy       |
-| 2413 | [Smallest Even Multiple][2413]                                | [C++][2413cpp] | Easy       |
-| 2469 | [Convert the Temperature][2469]                               | [C++][2469cpp] | Easy       |
-| 2549 | [Count Distinct Numbers on Board][2549]                       | [C++][2549cpp] | Easy       |
-| 2769 | [Find the Maximum Achievable Number][2769]                    | [C++][2769cpp] | Easy       |
-| 2798 | [Number of Employees Who Met the Target][2798]                | [C++][2798cpp] | Easy       |
-| 2824 | [Count Pairs Whose Sum is Less than Target][2824]             | [C++][2824cpp] | Easy       |
+| #    | Problem                                                         | Language       | Difficulty |
+| ---- | --------------------------------------------------------------- | -------------- | ---------- |
+| 0001 | [Two Sum][0001]                                                 | [C++][0001cpp] | Easy       |
+| 0009 | [Palindrome Number][0009]                                       | [C++][0009cpp] | Easy       |
+| 0013 | [Roman to Integer][0013]                                        | [C++][0013cpp] | Easy       |
+| 0014 | [Longest Common Prefix][0014]                                   | [C++][0014cpp] | Easy       |
+| 0020 | [Valid Parentheses][0020]                                       | [C++][0020cpp] | Easy       |
+| 0021 | [Merge Two Sorted Lists][0021]                                  | [C++][0021cpp] | Easy       |
+| 0026 | [Remove Duplicates from Sorted Array][0026]                     | [C++][0026cpp] | Easy       |
+| 0066 | [Plus One][0066]                                                | [C++][0066cpp] | Easy       |
+| 0067 | [Add Binary][0067]                                              | [C++][0067cpp] | Easy       |
+| 0121 | [Best Time to Buy and Sell Stock][0121]                         | [C++][0121cpp] | Easy       |
+| 0125 | [Valid Palindrome][0125]                                        | [C++][0125cpp] | Easy       |
+| 0141 | [Linked List Cycle][0141]                                       | [C++][0141cpp] | Easy       |
+| 0217 | [Contains Duplicate][0217]                                      | [C++][0217cpp] | Easy       |
+| 0219 | [Contains Duplicate II][0219]                                   | [C++][0219cpp] | Easy       |
+| 0344 | [Reverse String][0344]                                          | [C++][0344cpp] | Easy       |
+| 0378 | [Ransom Note][0378]                                             | [C++][0378cpp] | Easy       |
+| 0412 | [Fizz Buzz][0412]                                               | [C++][0412cpp] | Easy       |
+| 0628 | [Maximum Product of Three Numbers][0628]                        | [C++][0628cpp] | Easy       |
+| 0680 | [Valid Palindrome II][0680]                                     | [C++][0680cpp] | Easy       |
+| 0771 | [Jewels and Stones][0771]                                       | [C++][0771cpp] | Easy       |
+| 0876 | [Middle of the Linked List][0876]                               | [C++][0876cpp] | Easy       |
+| 1108 | [Defanging an IP Address][1108]                                 | [C++][1108cpp] | Easy       |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]    | [C++][1281cpp] | Easy       |
+| 1342 | [Number of Steps to Reduce a Number to Zero][1342]              | [C++][1342cpp] | Easy       |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]    | [C++][1365cpp] | Easy       |
+| 1431 | [Kids With the Greatest Number of Candies][1431]                | [C++][1431cpp] | Easy       |
+| 1470 | [Shuffle the Array][1470]                                       | [C++][1470cpp] | Easy       |
+| 1480 | [Running Sum of 1d Array][1480]                                 | [C++][1480cpp] | Easy       |
+| 1486 | [XOR Operation in an Array][1486]                               | [C++][1486cpp] | Easy       |
+| 1512 | [Number of Good Pairs][1512]                                    | [C++][1512cpp] | Easy       |
+| 1603 | [Design Parking System][1603]                                   | [C++][1603cpp] | Easy       |
+| 1672 | [Richest Customer Wealth][1672]                                 | [C++][1672cpp] | Easy       |
+| 1678 | [Goal Parser Interpretation][1678]                              | [C++][1678cpp] | Easy       |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]   | [C++][1725cpp] | Easy       |
+| 1920 | [Build Array from Permutation][1920]                            | [C++][1920cpp] | Easy       |
+| 1929 | [Concatenation of Array][1929]                                  | [C++][1929cpp] | Easy       |
+| 2011 | [Final Value of Variable After Performing Operations][2011]     | [C++][2011cpp] | Easy       |
+| 2114 | [Maximum Number of Words Found in Sentences][2114]              | [C++][2114cpp] | Easy       |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160] | [C++][2160cpp] | Easy       |
+| 2235 | [Add Two Integers][2235]                                        | [C++][2235cpp] | Easy       |
+| 2413 | [Smallest Even Multiple][2413]                                  | [C++][2413cpp] | Easy       |
+| 2469 | [Convert the Temperature][2469]                                 | [C++][2469cpp] | Easy       |
+| 2549 | [Count Distinct Numbers on Board][2549]                         | [C++][2549cpp] | Easy       |
+| 2769 | [Find the Maximum Achievable Number][2769]                      | [C++][2769cpp] | Easy       |
+| 2798 | [Number of Employees Who Met the Target][2798]                  | [C++][2798cpp] | Easy       |
+| 2824 | [Count Pairs Whose Sum is Less than Target][2824]               | [C++][2824cpp] | Easy       |
 
 ## LICENSE
 
@@ -143,6 +144,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2114cpp]: https://leetcode.com/submissions/detail/1051739013/
+[2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+[2160cpp]: https://leetcode.com/submissions/detail/1051749058/
 [2235]: https://leetcode.com/problems/add-two-integers/
 [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
 [2413]: https://leetcode.com/problems/smallest-even-multiple/
