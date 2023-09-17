@@ -51,6 +51,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1920 | [Build Array from Permutation][1920]                          | [C++][1920cpp] | Easy       |
 | 1929 | [Concatenation of Array][1929]                                | [C++][1929cpp] | Easy       |
 | 2011 | [Final Value of Variable After Performing Operations][2011]   | [C++][2011cpp] | Easy       |
+| 2114 | [Maximum Number of Words Found in Sentences][2114]            | [C++][2114cpp] | Easy       |
 | 2235 | [Add Two Integers][2235]                                      | [C++][2235cpp] | Easy       |
 | 2413 | [Smallest Even Multiple][2413]                                | [C++][2413cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                               | [C++][2469cpp] | Easy       |
@@ -137,6 +138,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
+[2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+[2114cpp]: https://leetcode.com/submissions/detail/1051739013/
 [2235]: https://leetcode.com/problems/add-two-integers/
 [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
 [2413]: https://leetcode.com/problems/smallest-even-multiple/
