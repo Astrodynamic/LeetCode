@@ -121,7 +121,7 @@ This project is licensed under the [LICENSE](LICENSE).
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1365cpp]: https://leetcode.com/submissions/detail/1051734090/
 [1379]: https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
-[1379cpp]: https://leetcode.com/submissions/detail/1051774944/
+[1379cpp]: https://leetcode.com/submissions/detail/1051825768/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
 [1470]: https://leetcode.com/problems/shuffle-the-array/
