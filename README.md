@@ -50,6 +50,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1480 | [Running Sum of 1d Array][1480]                                            | [C++][1480cpp] | Easy       |
 | 1486 | [XOR Operation in an Array][1486]                                          | [C++][1486cpp] | Easy       |
 | 1512 | [Number of Good Pairs][1512]                                               | [C++][1512cpp] | Easy       |
+| 1528 | [Shuffle String][1528]                                                     | [C++][1528cpp] | Easy       |
 | 1603 | [Design Parking System][1603]                                              | [C++][1603cpp] | Easy       |
 | 1656 | [Design an Ordered Stream][1656]                                           | [C++][1656cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                                            | [C++][1672cpp] | Easy       |
@@ -148,9 +149,11 @@ This project is licensed under the [LICENSE](LICENSE).
 [1486cpp]: https://leetcode.com/submissions/detail/1051731597/
 [1512]: https://leetcode.com/problems/number-of-good-pairs/
 [1512cpp]: https://leetcode.com/submissions/detail/1050836269/
+[1528]: https://leetcode.com/problems/shuffle-string/
+[1528cpp]: https://leetcode.com/submissions/detail/1053813102/
 [1603]: https://leetcode.com/problems/design-parking-system/
 [1603cpp]: https://leetcode.com/submissions/detail/1050856642/
-[1656]: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+[1656]: https://leetcode.com/problems/design-an-ordered-stream/
 [1656cpp]: https://leetcode.com/submissions/detail/1053801183/
 [1672]: https://leetcode.com/problems/richest-customer-wealth/
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
