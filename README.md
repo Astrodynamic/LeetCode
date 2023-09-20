@@ -57,6 +57,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1678 | [Goal Parser Interpretation][1678]                                         | [C++][1678cpp] | Easy       |
 | 1720 | [Decode XORed Array][1720]                                                 | [C++][1720cpp] | Easy       |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp] | Easy       |
+| 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp] | Easy       |
 | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp] | Easy       |
 | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp] | Easy       |
 | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp] | Easy       |
@@ -163,6 +164,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1720cpp]: https://leetcode.com/submissions/detail/1051833450/
 [1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1725cpp]: https://leetcode.com/submissions/detail/1047761317/
+[1816]: https://leetcode.com/problems/truncate-sentence/
+[1816cpp]: https://leetcode.com/submissions/detail/1054767591/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
 [1929]: https://leetcode.com/problems/concatenation-of-array/
