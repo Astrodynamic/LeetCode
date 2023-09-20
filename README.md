@@ -62,6 +62,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp] | Easy       |
 | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp] | Easy       |
 | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp] | Easy       |
+| 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp] | Easy       |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp] | Easy       |
 | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp] | Easy       |
 | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp] | Easy       |
@@ -174,6 +175,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2114cpp]: https://leetcode.com/submissions/detail/1051739013/
+[2194]: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
+[2194cpp]: https://leetcode.com/submissions/detail/1054783152/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2160cpp]: https://leetcode.com/submissions/detail/1051749058/
 [2235]: https://leetcode.com/problems/add-two-integers/
