@@ -69,6 +69,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp] | Easy       |
 | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp] | Easy       |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array][2535]           | [C++][2535cpp] | Easy       |
 | 2549 | [Count Distinct Numbers on Board][2549]                                    | [C++][2549cpp] | Easy       |
 | 2574 | [Left and Right Sum Differences][2574]                                     | [C++][2574cpp] | Easy       |
 | 2652 | [Sum Multiples][2652]                                                      | [C++][2652cpp] | Easy       |
@@ -191,6 +192,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [2413cpp]: https://leetcode.com/submissions/detail/1050815450/
 [2469]: https://leetcode.com/problems/convert-the-temperature/
 [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
+[2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+[2535cpp]: https://leetcode.com/submissions/detail/1055721752/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
 [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
