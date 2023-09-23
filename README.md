@@ -56,6 +56,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1662 | [Check If Two String Arrays are Equivalent][1662]                          | [C++][1662cpp] | Easy       |
 | 1672 | [Richest Customer Wealth][1672]                                            | [C++][1672cpp] | Easy       |
 | 1678 | [Goal Parser Interpretation][1678]                                         | [C++][1678cpp] | Easy       |
+| 1684 | [Count the Number of Consistent Strings][1684]                             | [C++][1684cpp] | Easy       |
 | 1720 | [Decode XORed Array][1720]                                                 | [C++][1720cpp] | Easy       |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp] | Easy       |
 | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp] | Easy       |
@@ -166,6 +167,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1672cpp]: https://leetcode.com/submissions/detail/1036852316/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
 [1678cpp]: https://leetcode.com/submissions/detail/1050792706/
+[1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
+[1684cpp]: https://leetcode.com/submissions/detail/1057058958/
 [1720]: https://leetcode.com/problems/decode-xored-array/
 [1720cpp]: https://leetcode.com/submissions/detail/1051833450/
 [1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
