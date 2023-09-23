@@ -68,6 +68,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp] | Easy       |
 | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp] | Easy       |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp] | Easy       |
+| 2220 | [2220. Minimum Bit Flips to Convert Number][2220]                          | [C++][2220cpp] | Easy       |
 | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp] | Easy       |
 | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp] | Easy       |
@@ -192,6 +193,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [2194cpp]: https://leetcode.com/submissions/detail/1054783152/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2160cpp]: https://leetcode.com/submissions/detail/1051749058/
+[2220]: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+[2220cpp]: https://leetcode.com/submissions/detail/1057089218/
 [2235]: https://leetcode.com/problems/add-two-integers/
 [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
 [2413]: https://leetcode.com/problems/smallest-even-multiple/
