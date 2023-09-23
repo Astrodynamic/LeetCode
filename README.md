@@ -52,6 +52,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1486 | [XOR Operation in an Array][1486]                                          | [C++][1486cpp] | Easy       |
 | 1512 | [Number of Good Pairs][1512]                                               | [C++][1512cpp] | Easy       |
 | 1528 | [Shuffle String][1528]                                                     | [C++][1528cpp] | Easy       |
+| 1572 | [Matrix Diagonal Sum][1572]                                                | [C++][1572cpp] | Easy       |
 | 1603 | [Design Parking System][1603]                                              | [C++][1603cpp] | Easy       |
 | 1656 | [Design an Ordered Stream][1656]                                           | [C++][1656cpp] | Easy       |
 | 1662 | [Check If Two String Arrays are Equivalent][1662]                          | [C++][1662cpp] | Easy       |
@@ -68,7 +69,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp] | Easy       |
 | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp] | Easy       |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp] | Easy       |
-| 2220 | [2220. Minimum Bit Flips to Convert Number][2220]                          | [C++][2220cpp] | Easy       |
+| 2220 | [Minimum Bit Flips to Convert Number][2220]                                | [C++][2220cpp] | Easy       |
 | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp] | Easy       |
 | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp] | Easy       |
 | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp] | Easy       |
@@ -161,6 +162,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1512cpp]: https://leetcode.com/submissions/detail/1050836269/
 [1528]: https://leetcode.com/problems/shuffle-string/
 [1528cpp]: https://leetcode.com/submissions/detail/1053813102/
+[1572]: https://leetcode.com/problems/matrix-diagonal-sum/
+[1572cpp]: https://leetcode.com/submissions/detail/1057101150/
 [1603]: https://leetcode.com/problems/design-parking-system/
 [1603cpp]: https://leetcode.com/submissions/detail/1050856642/
 [1656]: https://leetcode.com/problems/design-an-ordered-stream/
