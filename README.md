@@ -35,6 +35,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 0628 | [Maximum Product of Three Numbers][0628]                                   | [C++][0628cpp] | Easy       |
 | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp] | Easy       |
 | 0771 | [Jewels and Stones][0771]                                                  | [C++][0771cpp] | Easy       |
+| 0804 | [Unique Morse Code Words][0804]                                            | [C++][0804cpp] | Easy       |
 | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp] | Easy       |
 | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp] | Easy       |
 | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp] | Easy       |
@@ -125,6 +126,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [0680cpp]: https://leetcode.com/submissions/detail/1037968613/
 [0771]: https://leetcode.com/problems/jewels-and-stones/
 [0771cpp]: https://leetcode.com/submissions/detail/1050861136/
+[0804]: https://leetcode.com/problems/unique-morse-code-words/
+[0804cpp]: https://leetcode.com/submissions/detail/1057067079/
 [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
 [0938]: https://leetcode.com/problems/range-sum-of-bst/
