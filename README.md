@@ -66,6 +66,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp] | Easy       |
 | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp] | Easy       |
 | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp] | Easy       |
+| 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp] | Easy       |
 | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp] | Easy       |
 | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp] | Easy       |
 | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp] | Easy       |
@@ -191,6 +192,8 @@ This project is licensed under the [LICENSE](LICENSE).
 [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
 [1929]: https://leetcode.com/problems/concatenation-of-array/
 [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
+[2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+[2006cpp]: https://leetcode.com/submissions/detail/1057124494/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
