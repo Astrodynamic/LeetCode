@@ -26,6 +26,7 @@
   | 0027 | [Remove Element][0027]                                                     | [C++][0027cpp] | Easy       |
   | 0066 | [Plus One][0066]                                                           | [C++][0066cpp] | Easy       |
   | 0067 | [Add Binary][0067]                                                         | [C++][0067cpp] | Easy       |
+  | 0069 | [Sqrt(x)][0069]                                                            | [C++][0069cpp] | Easy       |
   | 0121 | [Best Time to Buy and Sell Stock][0121]                                    | [C++][0121cpp] | Easy       |
   | 0125 | [Valid Palindrome][0125]                                                   | [C++][0125cpp] | Easy       |
   | 0141 | [Linked List Cycle][0141]                                                  | [C++][0141cpp] | Easy       |
@@ -114,6 +115,8 @@
   [0066cpp]: https://leetcode.com/submissions/detail/1039769790/
   [0067]: https://leetcode.com/problems/add-binary/
   [0067cpp]: https://leetcode.com/submissions/detail/1037990830/
+  [0069]: https://leetcode.com/problems/sqrtx
+  [0069cpp]: https://leetcode.com/submissions/detail/1143379297/
   [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
   [0121cpp]: https://leetcode.com/submissions/detail/1037934208/
   [0125]: https://leetcode.com/problems/valid-palindrome/
