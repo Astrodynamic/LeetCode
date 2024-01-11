@@ -23,6 +23,7 @@
   | 0020 | [Valid Parentheses][0020]                                                  | [C++][0020cpp] | Easy       |
   | 0021 | [Merge Two Sorted Lists][0021]                                             | [C++][0021cpp] | Easy       |
   | 0026 | [Remove Duplicates from Sorted Array][0026]                                | [C++][0026cpp] | Easy       |
+  | 0027 | [Remove Element][0027]                                                     | [C++][0027cpp] | Easy       |
   | 0066 | [Plus One][0066]                                                           | [C++][0066cpp] | Easy       |
   | 0067 | [Add Binary][0067]                                                         | [C++][0067cpp] | Easy       |
   | 0121 | [Best Time to Buy and Sell Stock][0121]                                    | [C++][0121cpp] | Easy       |
@@ -107,6 +108,8 @@
   [0021cpp]: https://leetcode.com/submissions/detail/1036960117/
   [0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
   [0026cpp]: https://leetcode.com/submissions/detail/1036967711/
+  [0027]: https://leetcode.com/problems/remove-element/
+  [0027cpp]: https://leetcode.com/submissions/detail/1143035176/
   [0066]: https://leetcode.com/problems/plus-one/
   [0066cpp]: https://leetcode.com/submissions/detail/1039769790/
   [0067]: https://leetcode.com/problems/add-binary/
