@@ -59,6 +59,7 @@
   | 1528 | [Shuffle String][1528]                                                     | [C++][1528cpp] | Easy       |
   | 1572 | [Matrix Diagonal Sum][1572]                                                | [C++][1572cpp] | Easy       |
   | 1603 | [Design Parking System][1603]                                              | [C++][1603cpp] | Easy       |
+  | 1637 | [Widest Vertical Area Between Two Points Containing No Points][1637]       | [C++][1637cpp] | Easy       |
   | 1656 | [Design an Ordered Stream][1656]                                           | [C++][1656cpp] | Easy       |
   | 1662 | [Check If Two String Arrays are Equivalent][1662]                          | [C++][1662cpp] | Easy       |
   | 1672 | [Richest Customer Wealth][1672]                                            | [C++][1672cpp] | Easy       |
@@ -181,6 +182,8 @@
   [1572cpp]: https://leetcode.com/submissions/detail/1057101150/
   [1603]: https://leetcode.com/problems/design-parking-system/
   [1603cpp]: https://leetcode.com/submissions/detail/1050856642/
+  [1637]: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points
+  [1637cpp]: https://leetcode.com/submissions/detail/1146584700/
   [1656]: https://leetcode.com/problems/design-an-ordered-stream/
   [1656cpp]: https://leetcode.com/submissions/detail/1053801183/
   [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
