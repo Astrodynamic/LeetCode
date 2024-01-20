@@ -89,6 +89,7 @@
   | 2798 | [Number of Employees Who Met the Target][2798]                             | [C++][2798cpp] | Easy       |
   | 2824 | [Count Pairs Whose Sum is Less than Target][2824]                          | [C++][2824cpp] | Easy       |
   | 2859 | [Sum of Values at Indices With K Set Bits][2859]                           | [C++][2859cpp] | Easy       |
+  | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp] | Easy       |
   | 2942 | [Find Words Containing Character][2942]                                    | [C++][2942cpp] | Easy       |
 
   ## LICENSE
@@ -243,5 +244,7 @@
   [2824cpp]: https://leetcode.com/submissions/detail/1050808683/
   [2859]: https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
   [2859cpp]: https://leetcode.com/submissions/detail/1051849278/
+  [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
+  [2894cpp]: https://leetcode.com/submissions/detail/1151703608/
   [2942]: https://leetcode.com/problems/find-words-containing-character
   [2942cpp]: https://leetcode.com/submissions/detail/1147552529/
