@@ -31,6 +31,7 @@
   | 0121 | [Best Time to Buy and Sell Stock][0121]                                    | [C++][0121cpp] | Easy       |
   | 0125 | [Valid Palindrome][0125]                                                   | [C++][0125cpp] | Easy       |
   | 0141 | [Linked List Cycle][0141]                                                  | [C++][0141cpp] | Easy       |
+  | 0203 | [Remove Linked List Elements][0203]                                        | [C++][0203cpp] | Easy       |
   | 0217 | [Contains Duplicate][0217]                                                 | [C++][0217cpp] | Easy       |
   | 0219 | [Contains Duplicate II][0219]                                              | [C++][0219cpp] | Easy       |
   | 0237 | [Delete Node in a Linked List][0237]                                       | [C++][0237cpp] | Medium     |
@@ -132,11 +133,13 @@
   [0125cpp]: https://leetcode.com/submissions/detail/1037955911/
   [0141]: https://leetcode.com/problems/linked-list-cycle/
   [0141cpp]: https://leetcode.com/submissions/detail/1040027578/
+  [0203]: https://leetcode.com/problems/remove-linked-list-elements/
+  [0203cpp]: https://leetcode.com/submissions/detail/1250117737/
   [0217]: https://leetcode.com/problems/contains-duplicate/
   [0217cpp]: https://leetcode.com/submissions/detail/1040044205/
   [0219]: https://leetcode.com/problems/contains-duplicate-ii/
   [0219cpp]: https://leetcode.com/submissions/detail/1040064641/
-  [0237] : https://leetcode.com/problems/delete-node-in-a-linked-list/
+  [0237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
   [0237cpp]: https://leetcode.com/submissions/detail/1249999235/
   [0344]: https://leetcode.com/problems/reverse-string/
   [0344cpp]: https://leetcode.com/submissions/detail/1038001012/
