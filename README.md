@@ -68,6 +68,7 @@
   | 1684 | [Count the Number of Consistent Strings][1684]                             | [C++][1684cpp] | Easy       |
   | 1720 | [Decode XORed Array][1720]                                                 | [C++][1720cpp] | Easy       |
   | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp] | Easy       |
+  | 1735 | [Count Ways to Make Array With Product][1735]                              | [C++][1735cpp] | Hard       |
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp] | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp] | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp] | Easy       |
@@ -204,6 +205,8 @@
   [1720cpp]: https://leetcode.com/submissions/detail/1051833450/
   [1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
   [1725cpp]: https://leetcode.com/submissions/detail/1047761317/
+  [1735]: https://leetcode.com/problems/count-ways-to-make-array-with-product/
+  [1735cpp]: https://leetcode.com/submissions/detail/1249984015/
   [1773]: https://leetcode.com/problems/count-items-matching-a-rule/
   [1773cpp]: https://leetcode.com/submissions/detail/1054791343/
   [1816]: https://leetcode.com/problems/truncate-sentence/
