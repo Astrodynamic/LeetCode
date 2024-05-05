@@ -33,6 +33,7 @@
   | 0141 | [Linked List Cycle][0141]                                                  | [C++][0141cpp] | Easy       |
   | 0217 | [Contains Duplicate][0217]                                                 | [C++][0217cpp] | Easy       |
   | 0219 | [Contains Duplicate II][0219]                                              | [C++][0219cpp] | Easy       |
+  | 0237 | [Delete Node in a Linked List][0237]                                       | [C++][0237cpp] | Medium     |
   | 0344 | [Reverse String][0344]                                                     | [C++][0344cpp] | Easy       |
   | 0378 | [Ransom Note][0378]                                                        | [C++][0378cpp] | Easy       |
   | 0412 | [Fizz Buzz][0412]                                                          | [C++][0412cpp] | Easy       |
@@ -135,6 +136,8 @@
   [0217cpp]: https://leetcode.com/submissions/detail/1040044205/
   [0219]: https://leetcode.com/problems/contains-duplicate-ii/
   [0219cpp]: https://leetcode.com/submissions/detail/1040064641/
+  [0237] : https://leetcode.com/problems/delete-node-in-a-linked-list/
+  [0237cpp]: https://leetcode.com/submissions/detail/1249999235/
   [0344]: https://leetcode.com/problems/reverse-string/
   [0344cpp]: https://leetcode.com/submissions/detail/1038001012/
   [0378]: https://leetcode.com/problems/ransom-note/
