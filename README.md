@@ -30,6 +30,7 @@
   | 0069 | [Sqrt(x)][0069]                                                            | [C++][0069cpp] | Easy       |
   | 0121 | [Best Time to Buy and Sell Stock][0121]                                    | [C++][0121cpp] | Easy       |
   | 0125 | [Valid Palindrome][0125]                                                   | [C++][0125cpp] | Easy       |
+  | 0136 | [Single Number][0136]                                                      | [C++][0136cpp] | Easy       |
   | 0141 | [Linked List Cycle][0141]                                                  | [C++][0141cpp] | Easy       |
   | 0203 | [Remove Linked List Elements][0203]                                        | [C++][0203cpp] | Easy       |
   | 0217 | [Contains Duplicate][0217]                                                 | [C++][0217cpp] | Easy       |
@@ -131,6 +132,8 @@
   [0121cpp]: https://leetcode.com/submissions/detail/1037934208/
   [0125]: https://leetcode.com/problems/valid-palindrome/
   [0125cpp]: https://leetcode.com/submissions/detail/1037955911/
+  [0136]: https://leetcode.com/problems/single-number/
+  [0136cpp]: https://leetcode.com/submissions/detail/1250124031/
   [0141]: https://leetcode.com/problems/linked-list-cycle/
   [0141cpp]: https://leetcode.com/submissions/detail/1040027578/
   [0203]: https://leetcode.com/problems/remove-linked-list-elements/
