@@ -58,6 +58,7 @@
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp] | Easy       |
   | 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp] | Easy       |
   | 1431 | [Kids With the Greatest Number of Candies][1431]                           | [C++][1431cpp] | Easy       |
+  | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR][1442]               | [C++][1442cpp] | Medium     |
   | 1470 | [Shuffle the Array][1470]                                                  | [C++][1470cpp] | Easy       |
   | 1480 | [Running Sum of 1d Array][1480]                                            | [C++][1480cpp] | Easy       |
   | 1486 | [XOR Operation in an Array][1486]                                          | [C++][1486cpp] | Easy       |
@@ -191,6 +192,8 @@
   [1389cpp]: https://leetcode.com/submissions/detail/1051840440/
   [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
   [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
+  [1442]: https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
+  [1442cpp]: https://leetcode.com/submissions/detail/1250177461/
   [1470]: https://leetcode.com/problems/shuffle-the-array/
   [1470cpp]: https://leetcode.com/submissions/detail/1049530990/
   [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
