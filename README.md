@@ -82,6 +82,7 @@
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp] | Easy       |
   | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp] | Easy       |
   | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp] | Easy       |
+  | 2523 | [Closest Prime Numbers in Range][2523]                                     | [C++][2523cpp] | Medium     |
   | 2535 | [Difference Between Element Sum and Digit Sum of an Array][2535]           | [C++][2535cpp] | Easy       |
   | 2549 | [Count Distinct Numbers on Board][2549]                                    | [C++][2549cpp] | Easy       |
   | 2574 | [Left and Right Sum Differences][2574]                                     | [C++][2574cpp] | Easy       |
@@ -231,6 +232,8 @@
   [2413cpp]: https://leetcode.com/submissions/detail/1050815450/
   [2469]: https://leetcode.com/problems/convert-the-temperature/
   [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
+  [2523]: https://leetcode.com/problems/closest-prime-numbers-in-range/
+  [2523cpp]: https://leetcode.com/submissions/detail/1249949917/
   [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
   [2535cpp]: https://leetcode.com/submissions/detail/1055721752/
   [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
