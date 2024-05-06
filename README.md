@@ -73,6 +73,7 @@
   | 1672 | [Richest Customer Wealth][1672]                                            | [C++][1672cpp]       | Easy       |
   | 1678 | [Goal Parser Interpretation][1678]                                         | [C++][1678cpp]       | Easy       |
   | 1684 | [Count the Number of Consistent Strings][1684]                             | [C++][1684cpp]       | Easy       |
+  | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers][1689]            | [C++][1689cpp]       | Medium     |
   | 1720 | [Decode XORed Array][1720]                                                 | [C++][1720cpp]       | Easy       |
   | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp]       | Easy       |
   | 1735 | [Count Ways to Make Array With Product][1735]                              | [C++][1735cpp]       | Hard       |
@@ -225,6 +226,8 @@
   [1678cpp]: https://leetcode.com/submissions/detail/1050792706/
   [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
   [1684cpp]: https://leetcode.com/submissions/detail/1057058958/
+  [1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+  [1689cpp]: https://leetcode.com/submissions/detail/1251166506/
   [1720]: https://leetcode.com/problems/decode-xored-array/
   [1720cpp]: https://leetcode.com/submissions/detail/1051833450/
   [1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
