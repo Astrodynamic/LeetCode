@@ -79,6 +79,7 @@
   | 1735 | [Count Ways to Make Array With Product][1735]                              | [C++][1735cpp]       | Hard       |
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp]       | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
+  | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy     |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
@@ -239,6 +240,8 @@
   [1773cpp]: https://leetcode.com/submissions/detail/1054791343/
   [1816]: https://leetcode.com/problems/truncate-sentence/
   [1816cpp]: https://leetcode.com/submissions/detail/1054767591/
+  [1863]: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+  [1863cpp]: https://leetcode.com/submissions/detail/1262903739/
   [1920]: https://leetcode.com/problems/build-array-from-permutation/
   [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
   [1929]: https://leetcode.com/problems/concatenation-of-array/
