@@ -86,6 +86,7 @@
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
   | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp]       | Easy       |
+  | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium       |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
   | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp]       | Easy       |
   | 2220 | [Minimum Bit Flips to Convert Number][2220]                                | [C++][2220cpp]       | Easy       |
@@ -259,6 +260,8 @@
   [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
   [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
   [2114cpp]: https://leetcode.com/submissions/detail/1051739013/
+  [2149]: https://leetcode.com/problems/rearrange-array-elements-by-sign/
+  [2149cpp]: https://leetcode.com/submissions/detail/1269348255/
   [2194]: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
   [2194cpp]: https://leetcode.com/submissions/detail/1054783152/
   [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
