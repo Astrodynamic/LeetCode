@@ -58,7 +58,7 @@
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp]       | Easy       |
   | 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp]       | Easy       |
-  | 1409 | [Queries on a Permutation With Key][1409]                                  | [C++][1409cpp]       | Medium       |
+  | 1409 | [Queries on a Permutation With Key][1409]                                  | [C++][1409cpp]       | Medium     |
   | 1431 | [Kids With the Greatest Number of Candies][1431]                           | [C++][1431cpp]       | Easy       |
   | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR][1442]               | [C++][1442cpp]       | Medium     |
   | 1470 | [Shuffle the Array][1470]                                                  | [C++][1470cpp]       | Easy       |
@@ -81,19 +81,20 @@
   | 1735 | [Count Ways to Make Array With Product][1735]                              | [C++][1735cpp]       | Hard       |
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp]       | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
-  | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy     |
+  | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
   | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp]       | Easy       |
-  | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium       |
+  | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium     |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
   | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp]       | Easy       |
   | 2220 | [Minimum Bit Flips to Convert Number][2220]                                | [C++][2220cpp]       | Easy       |
+  | 2236 | [Root Equals Sum of Children][2236]                                        | [C++][2236cpp]       | Easy       |
   | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp]       | Easy       |
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp]       | Easy       |
-  | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy     |
+  | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy       |
   | 2373 | [Largest Local Values in a Matrix][2373]                                   | [C++][2373cpp]       | Easy       |
   | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp]       | Easy       |
   | 2433 | [Find The Original Array of Prefix Xor][2433]                              | [C++][2433cpp]       | Medium     |
@@ -271,6 +272,8 @@
   [2160cpp]: https://leetcode.com/submissions/detail/1051749058/
   [2220]: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
   [2220cpp]: https://leetcode.com/submissions/detail/1057089218/
+  [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
+  [2236cpp]: https://leetcode.com/submissions/detail/1269764001/
   [2235]: https://leetcode.com/problems/add-two-integers/
   [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
   [2325]: https://leetcode.com/problems/decode-the-message/
