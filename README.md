@@ -100,6 +100,7 @@
   | 2433 | [Find The Original Array of Prefix Xor][2433]                              | [C++][2433cpp]       | Medium     |
   | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp]       | Easy       |
   | 2485 | [Find the Pivot Integer][2485]                                             | [C++][2485cpp]       | Easy       |
+  | 2520 | [Count the Digits That Divide a Number][2520]                              | [C++][2520cpp]       | Easy       |
   | 2523 | [Closest Prime Numbers in Range][2523]                                     | [C++][2523cpp]       | Medium     |
   | 2535 | [Difference Between Element Sum and Digit Sum of an Array][2535]           | [C++][2535cpp]       | Easy       |
   | 2549 | [Count Distinct Numbers on Board][2549]                                    | [C++][2549cpp]       | Easy       |
@@ -290,6 +291,8 @@
   [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
   [2485]: https://leetcode.com/problems/find-the-pivot-integer/
   [2485cpp]: https://leetcode.com/submissions/detail/1269246110/
+  [2520]: https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+  [2520cpp]: https://leetcode.com/submissions/detail/1269768312/
   [2523]: https://leetcode.com/problems/closest-prime-numbers-in-range/
   [2523cpp]: https://leetcode.com/submissions/detail/1249949917/
   [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
