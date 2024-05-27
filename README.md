@@ -109,6 +109,7 @@
   | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp]       | Easy       |
   | 2942 | [Find Words Containing Character][2942]                                    | [C++][2942cpp]       | Easy       |
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
+  | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
 
   ## LICENSE
 
@@ -302,3 +303,5 @@
   [2942cpp]: https://leetcode.com/submissions/detail/1147552529/
   [3110]: https://leetcode.com/problems/score-of-a-string/
   [3110cpp]: https://leetcode.com/submissions/detail/1251138857/
+  [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
+  [3146cpp]: https://leetcode.com/submissions/detail/1269235214/
