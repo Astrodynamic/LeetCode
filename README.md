@@ -58,6 +58,7 @@
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp]       | Easy       |
   | 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp]       | Easy       |
+  | 1409 | [Queries on a Permutation With Key][1409]                                  | [C++][1409cpp]       | Medium       |
   | 1431 | [Kids With the Greatest Number of Candies][1431]                           | [C++][1431cpp]       | Easy       |
   | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR][1442]               | [C++][1442cpp]       | Medium     |
   | 1470 | [Shuffle the Array][1470]                                                  | [C++][1470cpp]       | Easy       |
@@ -204,6 +205,8 @@
   [1379cpp]: https://leetcode.com/submissions/detail/1051774944/
   [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
   [1389cpp]: https://leetcode.com/submissions/detail/1051840440/
+  [1409]: https://leetcode.com/problems/queries-on-a-permutation-with-key/
+  [1409cpp]: https://leetcode.com/submissions/detail/1269377872/
   [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
   [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
   [1442]: https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
