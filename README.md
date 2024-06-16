@@ -54,6 +54,7 @@
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
   | 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp]       | Easy       |
   | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp]       | Easy       |
+  | 1282 | [Group the People Given the Group Size They Belong To][1282]               | [C++][1282cpp]       | Medium     |
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
@@ -205,6 +206,8 @@
   [1221cpp]: https://leetcode.com/submissions/detail/1051871448/
   [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
   [1281cpp]: https://leetcode.com/submissions/detail/1051743818/
+  [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+  [1282cpp]: https://leetcode.com/submissions/detail/1290293523/
   [1302]: https://leetcode.com/problems/deepest-leaves-sum/
   [1302cpp]: https://leetcode.com/submissions/detail/1290145143/
   [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
