@@ -100,6 +100,7 @@
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp]       | Easy       |
   | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy       |
   | 2373 | [Largest Local Values in a Matrix][2373]                                   | [C++][2373cpp]       | Easy       |
+  | 2396 | [Strictly Palindromic Number][2396]                                        | [C++][2396cpp]       | Medium     |
   | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp]       | Easy       |
   | 2433 | [Find The Original Array of Prefix Xor][2433]                              | [C++][2433cpp]       | Medium     |
   | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp]       | Easy       |
@@ -298,6 +299,8 @@
   [2367cpp]: https://leetcode.com/submissions/detail/1269281053/
   [2373]: https://leetcode.com/problems/largest-local-values-in-a-matrix/
   [2373cpp]: https://leetcode.com/submissions/detail/1266050026/
+  [2396]: https://leetcode.com/problems/strictly-palindromic-number/
+  [2396cpp]: https://leetcode.com/submissions/detail/1290304184/
   [2413]: https://leetcode.com/problems/smallest-even-multiple/
   [2413cpp]: https://leetcode.com/submissions/detail/1050815450/
   [2433]: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
