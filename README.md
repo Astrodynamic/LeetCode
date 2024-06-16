@@ -53,6 +53,7 @@
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
   | 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp]       | Easy       |
   | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp]       | Easy       |
+  | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
@@ -198,6 +199,8 @@
   [1221cpp]: https://leetcode.com/submissions/detail/1051871448/
   [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
   [1281cpp]: https://leetcode.com/submissions/detail/1051743818/
+  [1302]: https://leetcode.com/problems/deepest-leaves-sum/
+  [1302cpp]: https://leetcode.com/submissions/detail/1290145143/
   [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
   [1313cpp]: https://leetcode.com/submissions/detail/1051859265/
   [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
