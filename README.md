@@ -120,6 +120,7 @@
   | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K][2997]          | [C++][2997cpp]       | Medium     |
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
+  | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
 
   ## LICENSE
 
@@ -335,3 +336,5 @@
   [3110cpp]: https://leetcode.com/submissions/detail/1251138857/
   [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
   [3146cpp]: https://leetcode.com/submissions/detail/1269235214/
+  [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
+  [3162cpp]: https://leetcode.com/submissions/detail/1290184663/
