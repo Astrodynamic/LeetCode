@@ -49,6 +49,7 @@
   | 0709 | [To Lower Case][0709]                                                      | [C++][0709cpp]       | Easy       |
   | 0771 | [Jewels and Stones][0771]                                                  | [C++][0771cpp]       | Easy       |
   | 0804 | [Unique Morse Code Words][0804]                                            | [C++][0804cpp]       | Easy       |
+  | 0807 | [Max Increase to Keep City Skyline][0807]                                  | [C++][0807cpp]       | Medium     |
   | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp]       | Easy       |
   | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp]       | Easy       |
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
@@ -202,6 +203,8 @@
   [0771cpp]: https://leetcode.com/submissions/detail/1050861136/
   [0804]: https://leetcode.com/problems/unique-morse-code-words/
   [0804cpp]: https://leetcode.com/submissions/detail/1057067079/
+  [0807]: https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+  [0807cpp]: https://leetcode.com/submissions/detail/1290427634/
   [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
   [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
   [0938]: https://leetcode.com/problems/range-sum-of-bst/
