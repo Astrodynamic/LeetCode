@@ -117,6 +117,7 @@
   | 2859 | [Sum of Values at Indices With K Set Bits][2859]                           | [C++][2859cpp]       | Easy       |
   | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp]       | Easy       |
   | 2942 | [Find Words Containing Character][2942]                                    | [C++][2942cpp]       | Easy       |
+  | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K][2997]          | [C++][2997cpp]       | Medium     |
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
 
@@ -328,6 +329,8 @@
   [2894cpp]: https://leetcode.com/submissions/detail/1151703608/
   [2942]: https://leetcode.com/problems/find-words-containing-character
   [2942cpp]: https://leetcode.com/submissions/detail/1147552529/
+  [2997]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/
+  [2997cpp]: https://leetcode.com/submissions/detail/1290174386/
   [3110]: https://leetcode.com/problems/score-of-a-string/
   [3110cpp]: https://leetcode.com/submissions/detail/1251138857/
   [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
