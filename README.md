@@ -93,6 +93,7 @@
   | 2220 | [Minimum Bit Flips to Convert Number][2220]                                | [C++][2220cpp]       | Easy       |
   | 2236 | [Root Equals Sum of Children][2236]                                        | [C++][2236cpp]       | Easy       |
   | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp]       | Easy       |
+  | 2265 | [Count Nodes Equal to Average of Subtrees][2265]                           | [C++][2265cpp]       | Medium     |
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp]       | Easy       |
   | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy       |
   | 2373 | [Largest Local Values in a Matrix][2373]                                   | [C++][2373cpp]       | Easy       |
@@ -277,6 +278,8 @@
   [2236cpp]: https://leetcode.com/submissions/detail/1269764001/
   [2235]: https://leetcode.com/problems/add-two-integers/
   [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
+  [2265]: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+  [2265cpp]: https://leetcode.com/submissions/detail/1290126716/
   [2325]: https://leetcode.com/problems/decode-the-message/
   [2325cpp]: https://leetcode.com/submissions/detail/1057789757/
   [2367]: https://leetcode.com/problems/number-of-arithmetic-triplets/
