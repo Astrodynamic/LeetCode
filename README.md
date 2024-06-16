@@ -95,6 +95,7 @@
   | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium     |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
   | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp]       | Easy       |
+  | 2188 | [Merge Nodes in Between Zeros][2188]                                       | [C++][2188cpp]       | Medium     |
   | 2220 | [Minimum Bit Flips to Convert Number][2220]                                | [C++][2220cpp]       | Easy       |
   | 2236 | [Root Equals Sum of Children][2236]                                        | [C++][2236cpp]       | Easy       |
   | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp]       | Easy       |
@@ -291,6 +292,8 @@
   [2194cpp]: https://leetcode.com/submissions/detail/1054783152/
   [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
   [2160cpp]: https://leetcode.com/submissions/detail/1051749058/
+  [2188]: https://leetcode.com/problems/merge-nodes-in-between-zeros/
+  [2188cpp]: https://leetcode.com/submissions/detail/1290371505/
   [2220]: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
   [2220cpp]: https://leetcode.com/submissions/detail/1057089218/
   [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
