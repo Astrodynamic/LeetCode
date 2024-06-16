@@ -108,6 +108,7 @@
   | 2535 | [Difference Between Element Sum and Digit Sum of an Array][2535]           | [C++][2535cpp]       | Easy       |
   | 2549 | [Count Distinct Numbers on Board][2549]                                    | [C++][2549cpp]       | Easy       |
   | 2574 | [Left and Right Sum Differences][2574]                                     | [C++][2574cpp]       | Easy       |
+  | 2610 | [Convert an Array Into a 2D Array With Conditions][2610]                   | [C++][2610cpp]       | Medium     |
   | 2652 | [Sum Multiples][2652]                                                      | [C++][2652cpp]       | Easy       |
   | 2703 | [Return Length of Arguments Passed][2703]                                  | [JavaScript][2703js] | Easy       |
   | 2769 | [Find the Maximum Achievable Number][2769]                                 | [C++][2769cpp]       | Easy       |
@@ -312,6 +313,8 @@
   [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
   [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
   [2574cpp]: https://leetcode.com/submissions/detail/1051760337/
+  [2610]: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
+  [2610cpp]: https://leetcode.com/submissions/detail/1290260630/
   [2652]: https://leetcode.com/problems/sum-multiples/
   [2652cpp]: https://leetcode.com/submissions/detail/1053791402/
   [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
