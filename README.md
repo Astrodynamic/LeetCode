@@ -89,6 +89,7 @@
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
+  | 2037 | [Minimum Number of Moves to Seat Everyone][2037]                           | [C++][2037cpp]       | Easy       |
   | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp]       | Easy       |
   | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium     |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
@@ -277,6 +278,8 @@
   [2006cpp]: https://leetcode.com/submissions/detail/1057124494/
   [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
   [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
+  [2037]: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+  [2037cpp]: https://leetcode.com/submissions/detail/1290320910/
   [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
   [2114cpp]: https://leetcode.com/submissions/detail/1051739013/
   [2149]: https://leetcode.com/problems/rearrange-array-elements-by-sign/
