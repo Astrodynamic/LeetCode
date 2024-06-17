@@ -92,6 +92,7 @@
   | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
+  | 2000 | [Reverse Prefix of Word][2000]                                             | [C++][2000cpp]       | Easy       |
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
   | 2037 | [Minimum Number of Moves to Seat Everyone][2037]                           | [C++][2037cpp]       | Easy       |
@@ -290,6 +291,8 @@
   [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
   [1929]: https://leetcode.com/problems/concatenation-of-array/
   [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
+  [2000]: https://leetcode.com/problems/reverse-prefix-of-word/
+  [2000cpp]: https://leetcode.com/submissions/detail/1291672432/
   [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
   [2006cpp]: https://leetcode.com/submissions/detail/1057124494/
   [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
