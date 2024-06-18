@@ -129,6 +129,7 @@
   | 2859 | [Sum of Values at Indices With K Set Bits][2859]                           | [C++][2859cpp]       | Easy       |
   | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp]       | Easy       |
   | 2942 | [Find Words Containing Character][2942]                                    | [C++][2942cpp]       | Easy       |
+  | 2974 | [Minimum Number Game][2974]                                                | [C++][2974cpp]       | Easy       |
   | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K][2997]          | [C++][2997cpp]       | Medium     |
   | 3065 | [Minimum Operations to Exceed Threshold Value I][3065]                     | [C++][3065cpp]       | Easy       |
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
@@ -367,6 +368,8 @@
   [2894cpp]: https://leetcode.com/submissions/detail/1151703608/
   [2942]: https://leetcode.com/problems/find-words-containing-character
   [2942cpp]: https://leetcode.com/submissions/detail/1147552529/
+  [2974]: https://leetcode.com/problems/minimum-number-game/
+  [2974cpp]: https://leetcode.com/submissions/detail/1292522444/
   [2997]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/
   [2997cpp]: https://leetcode.com/submissions/detail/1290174386/
   [3065]: https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
