@@ -59,6 +59,7 @@
   | 1282 | [Group the People Given the Group Size They Belong To][1282]               | [C++][1282cpp]       | Medium     |
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
+  | 1315 | [Sum of Nodes with Even-Valued Grandparent][1315]                          | [C++][1315cpp]       | Medium     |
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp]       | Easy       |
@@ -225,6 +226,8 @@
   [1302cpp]: https://leetcode.com/submissions/detail/1290145143/
   [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
   [1313cpp]: https://leetcode.com/submissions/detail/1051859265/
+  [1315]: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+  [1315cpp]: https://leetcode.com/submissions/detail/1292478762/
   [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
   [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
   [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
