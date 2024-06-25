@@ -45,6 +45,7 @@
   | 0535 | [Encode and Decode TinyURL][0535]                                          | [C++][0535cpp]       | Medium     |
   | 0557 | [Reverse Words in a String III][0557]                                      | [C++][0557cpp]       | Easy       |
   | 0628 | [Maximum Product of Three Numbers][0628]                                   | [C++][0628cpp]       | Easy       |
+  | 0654 | [Maximum Binary Tree][0654]                                                | [C++][0654cpp]       | Medium     |
   | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp]       | Easy       |
   | 0709 | [To Lower Case][0709]                                                      | [C++][0709cpp]       | Easy       |
   | 0771 | [Jewels and Stones][0771]                                                  | [C++][0771cpp]       | Easy       |
@@ -202,6 +203,8 @@
   [0557cpp]: https://leetcode.com/submissions/detail/1072820965/
   [0628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
   [0628cpp]: https://leetcode.com/submissions/detail/1037692372/
+  [0654]: https://leetcode.com/problems/maximum-binary-tree/
+  [0654cpp]: https://leetcode.com/submissions/detail/1300237881/
   [0680]: https://leetcode.com/problems/valid-palindrome-ii/
   [0680cpp]: https://leetcode.com/submissions/detail/1037968613/
   [0709]: https://leetcode.com/problems/to-lower-case/
