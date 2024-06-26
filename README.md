@@ -64,6 +64,7 @@
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp]       | Easy       |
+  | 1382 | [Balance a Binary Search Tree][1382]                                       | [C++][1382cpp]       | Medium     |
   | 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp]       | Easy       |
   | 1409 | [Queries on a Permutation With Key][1409]                                  | [C++][1409cpp]       | Medium     |
   | 1431 | [Kids With the Greatest Number of Candies][1431]                           | [C++][1431cpp]       | Easy       |
@@ -241,6 +242,8 @@
   [1365cpp]: https://leetcode.com/submissions/detail/1051734090/
   [1379]: https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
   [1379cpp]: https://leetcode.com/submissions/detail/1051774944/
+  [1382]: https://leetcode.com/problems/balance-a-binary-search-tree/
+  [1382cpp]: https://leetcode.com/submissions/detail/1300688990/
   [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
   [1389cpp]: https://leetcode.com/submissions/detail/1051840440/
   [1409]: https://leetcode.com/problems/queries-on-a-permutation-with-key/
