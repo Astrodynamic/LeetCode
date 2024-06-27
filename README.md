@@ -91,6 +91,7 @@
   | 1735 | [Count Ways to Make Array With Product][1735]                              | [C++][1735cpp]       | Hard       |
   | 1769 | [Minimum Number of Operations to Move All Balls to Each Box][1769]         | [C++][1769cpp]       | Medium     |
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp]       | Easy       |
+  | 1791 | [Find Center of Star Graph][1791]                                          | [C++][1791cpp]       | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
   | 1828 | [Queries on Number of Points Inside a Circle][1828]                        | [C++][1828cpp]       | Medium     |
   | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
@@ -296,6 +297,8 @@
   [1769cpp]: https://leetcode.com/submissions/detail/1290380820/
   [1773]: https://leetcode.com/problems/count-items-matching-a-rule/
   [1773cpp]: https://leetcode.com/submissions/detail/1054791343/
+  [1791]: https://leetcode.com/problems/find-center-of-star-graph/
+  [1791cpp]: https://leetcode.com/submissions/detail/1301736645/
   [1816]: https://leetcode.com/problems/truncate-sentence/
   [1816cpp]: https://leetcode.com/submissions/detail/1054767591/
   [1828]: https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
