@@ -140,6 +140,7 @@
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
   | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
+  | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three][3190]    | [C++][3190cpp]       | Easy       |
 
   ## LICENSE
 
@@ -395,3 +396,5 @@
   [3146cpp]: https://leetcode.com/submissions/detail/1269235214/
   [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
   [3162cpp]: https://leetcode.com/submissions/detail/1290184663/
+  [3190]: https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
+  [3190cpp]: https://leetcode.com/submissions/detail/1302993089/
