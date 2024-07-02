@@ -39,6 +39,7 @@
   | 0237 | [Delete Node in a Linked List][0237]                                       | [C++][0237cpp]       | Medium     |
   | 0260 | [Single Number III][0260]                                                  | [C++][0260cpp]       | Medium     |
   | 0344 | [Reverse String][0344]                                                     | [C++][0344cpp]       | Easy       |
+  | 0350 | [Intersection of Two Arrays II][0350]                                      | [C++][0350cpp]       | Easy       |
   | 0378 | [Ransom Note][0378]                                                        | [C++][0378cpp]       | Easy       |
   | 0412 | [Fizz Buzz][0412]                                                          | [C++][0412cpp]       | Easy       |
   | 0441 | [Arranging Coins][0441]                                                    | [C++][0441cpp]       | Easy       |
@@ -195,6 +196,8 @@
   [0260cpp]: https://leetcode.com/submissions/detail/1250149156/
   [0344]: https://leetcode.com/problems/reverse-string/
   [0344cpp]: https://leetcode.com/submissions/detail/1038001012/
+  [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+  [0350cpp]: https://leetcode.com/submissions/detail/1306991032/
   [0378]: https://leetcode.com/problems/ransom-note/
   [0378cpp]: https://leetcode.com/submissions/detail/1036903851/
   [0412]: https://leetcode.com/problems/fizz-buzz/
