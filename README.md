@@ -124,6 +124,7 @@
   | 2520 | [Count the Digits That Divide a Number][2520]                              | [C++][2520cpp]       | Easy       |
   | 2523 | [Closest Prime Numbers in Range][2523]                                     | [C++][2523cpp]       | Medium     |
   | 2535 | [Difference Between Element Sum and Digit Sum of an Array][2535]           | [C++][2535cpp]       | Easy       |
+  | 2545 | [Sort the Students by Their Kth Score][2545]                               | [C++][2545cpp]       | Medium     |
   | 2549 | [Count Distinct Numbers on Board][2549]                                    | [C++][2549cpp]       | Easy       |
   | 2574 | [Left and Right Sum Differences][2574]                                     | [C++][2574cpp]       | Easy       |
   | 2610 | [Convert an Array Into a 2D Array With Conditions][2610]                   | [C++][2610cpp]       | Medium     |
@@ -366,6 +367,8 @@
   [2523cpp]: https://leetcode.com/submissions/detail/1249949917/
   [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
   [2535cpp]: https://leetcode.com/submissions/detail/1055721752/
+  [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
+  [2545cpp]: https://leetcode.com/submissions/detail/1308728096/
   [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
   [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
   [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
