@@ -144,6 +144,7 @@
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
   | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
   | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three][3190]    | [C++][3190cpp]       | Easy       |
+  | 3211 | [Generate Binary Strings Without Adjacent Zeros][3211]                     | [C++][3211cpp]       | Medium     |
 
   ## LICENSE
 
@@ -407,3 +408,5 @@
   [3162cpp]: https://leetcode.com/submissions/detail/1290184663/
   [3190]: https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
   [3190cpp]: https://leetcode.com/submissions/detail/1302993089/
+  [3211]: https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/
+  [3211cpp]: https://leetcode.com/submissions/detail/1313864130/
