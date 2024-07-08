@@ -94,6 +94,7 @@
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp]       | Easy       |
   | 1791 | [Find Center of Star Graph][1791]                                          | [C++][1791cpp]       | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
+  | 1823 | [Find the Winner of the Circular Game][1823]                               | [C++][1823cpp]       | Medium     |
   | 1828 | [Queries on Number of Points Inside a Circle][1828]                        | [C++][1828cpp]       | Medium     |
   | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
@@ -308,6 +309,8 @@
   [1791cpp]: https://leetcode.com/submissions/detail/1301736645/
   [1816]: https://leetcode.com/problems/truncate-sentence/
   [1816cpp]: https://leetcode.com/submissions/detail/1054767591/
+  [1823]: https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+  [1823cpp]: https://leetcode.com/submissions/detail/1313917839/
   [1828]: https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
   [1828cpp]: https://leetcode.com/submissions/detail/1291656472/
   [1863]: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
