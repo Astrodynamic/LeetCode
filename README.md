@@ -104,6 +104,7 @@
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
   | 2037 | [Minimum Number of Moves to Seat Everyone][2037]                           | [C++][2037cpp]       | Easy       |
+  | 2108 | [Find First Palindromic String in the Array][2108]                         | [C++][2108cpp]       | Easy       |
   | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp]       | Easy       |
   | 2125 | [Number of Laser Beams in a Bank][2125]                                    | [C++][2125cpp]       | Medium     |
   | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium     |
@@ -332,6 +333,8 @@
   [2011cpp]: https://leetcode.com/submissions/detail/1049539828/
   [2037]: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
   [2037cpp]: https://leetcode.com/submissions/detail/1290320910/
+  [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+  [2108cpp]: https://leetcode.com/submissions/detail/1317519887/
   [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
   [2114cpp]: https://leetcode.com/submissions/detail/1051739013/
   [2125]: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
