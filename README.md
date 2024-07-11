@@ -122,6 +122,7 @@
   | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp]       | Easy       |
   | 2433 | [Find The Original Array of Prefix Xor][2433]                              | [C++][2433cpp]       | Medium     |
   | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp]       | Easy       |
+  | 2482 | [Difference Between Ones and Zeros in Row and Column][2482]                | [C++][2482cpp]       | Medium     |
   | 2485 | [Find the Pivot Integer][2485]                                             | [C++][2485cpp]       | Easy       |
   | 2520 | [Count the Digits That Divide a Number][2520]                              | [C++][2520cpp]       | Easy       |
   | 2523 | [Closest Prime Numbers in Range][2523]                                     | [C++][2523cpp]       | Medium     |
@@ -367,6 +368,8 @@
   [2433cpp]: https://leetcode.com/submissions/detail/1250163210/
   [2469]: https://leetcode.com/problems/convert-the-temperature/
   [2469cpp]: https://leetcode.com/submissions/detail/1048639718/
+  [2482]: https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
+  [2482cpp]: https://leetcode.com/submissions/detail/1317500103/
   [2485]: https://leetcode.com/problems/find-the-pivot-integer/
   [2485cpp]: https://leetcode.com/submissions/detail/1269246110/
   [2520]: https://leetcode.com/problems/count-the-digits-that-divide-a-number/
