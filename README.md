@@ -80,6 +80,7 @@
   | 1572 | [Matrix Diagonal Sum][1572]                                                | [C++][1572cpp]       | Easy       |
   | 1603 | [Design Parking System][1603]                                              | [C++][1603cpp]       | Easy       |
   | 1608 | [Special Array With X Elements Greater Than or Equal X][1608]              | [C++][1608cpp]       | Easy       |
+  | 1614 | [Maximum Nesting Depth of the Parentheses][1614]                           | [C++][1614cpp]       | Easy       |
   | 1637 | [Widest Vertical Area Between Two Points Containing No Points][1637]       | [C++][1637cpp]       | Easy       |
   | 1656 | [Design an Ordered Stream][1656]                                           | [C++][1656cpp]       | Easy       |
   | 1662 | [Check If Two String Arrays are Equivalent][1662]                          | [C++][1662cpp]       | Easy       |
@@ -285,6 +286,8 @@
   [1603cpp]: https://leetcode.com/submissions/detail/1050856642/
   [1608]: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
   [1608cpp]: https://leetcode.com/submissions/detail/1269219691/
+  [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+  [1614cpp]: https://leetcode.com/submissions/detail/1317526471/
   [1637]: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points
   [1637cpp]: https://leetcode.com/submissions/detail/1146584700/
   [1656]: https://leetcode.com/problems/design-an-ordered-stream/
