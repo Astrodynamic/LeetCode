@@ -65,6 +65,7 @@
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp]       | Easy       |
+  | 1380 | [Lucky Numbers in a Matrix][1380]                                          | [C++][1380cpp]       | Easy       |
   | 1382 | [Balance a Binary Search Tree][1382]                                       | [C++][1382cpp]       | Medium     |
   | 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp]       | Easy       |
   | 1409 | [Queries on a Permutation With Key][1409]                                  | [C++][1409cpp]       | Medium     |
@@ -259,6 +260,8 @@
   [1365cpp]: https://leetcode.com/submissions/detail/1051734090/
   [1379]: https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
   [1379cpp]: https://leetcode.com/submissions/detail/1051774944/
+  [1380]: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+  [1380cpp]: https://leetcode.com/submissions/detail/1326036063/
   [1382]: https://leetcode.com/problems/balance-a-binary-search-tree/
   [1382cpp]: https://leetcode.com/submissions/detail/1300688990/
   [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
