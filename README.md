@@ -80,6 +80,7 @@
   | 1561 | [Maximum Number of Coins You Can Get][1561]                                | [C++][1561cpp]       | Medium     |
   | 1572 | [Matrix Diagonal Sum][1572]                                                | [C++][1572cpp]       | Easy       |
   | 1603 | [Design Parking System][1603]                                              | [C++][1603cpp]       | Easy       |
+  | 1605 | [Find Valid Matrix Given Row and Column Sums][1605]                        | [C++][1605cpp]       | Medium     |
   | 1608 | [Special Array With X Elements Greater Than or Equal X][1608]              | [C++][1608cpp]       | Easy       |
   | 1614 | [Maximum Nesting Depth of the Parentheses][1614]                           | [C++][1614cpp]       | Easy       |
   | 1630 | [Arithmetic Subarrays][1630]                                               | [C++][1630cpp]       | Medium     |
@@ -290,6 +291,8 @@
   [1572cpp]: https://leetcode.com/submissions/detail/1057101150/
   [1603]: https://leetcode.com/problems/design-parking-system/
   [1603cpp]: https://leetcode.com/submissions/detail/1050856642/
+  [1605]: https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+  [1605cpp]: https://leetcode.com/submissions/detail/1327225517/
   [1608]: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
   [1608cpp]: https://leetcode.com/submissions/detail/1269219691/
   [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
