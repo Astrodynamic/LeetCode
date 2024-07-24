@@ -54,6 +54,7 @@
   | 0807 | [Max Increase to Keep City Skyline][0807]                                  | [C++][0807cpp]       | Medium     |
   | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp]       | Easy       |
   | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp]       | Easy       |
+  | 1021 | [Remove Outermost Parentheses][1021]                                       | [C++][1021cpp]       | Easy       |
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
   | 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp]       | Easy       |
@@ -243,6 +244,8 @@
   [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
   [0938]: https://leetcode.com/problems/range-sum-of-bst/
   [0938cpp]: https://leetcode.com/submissions/detail/1051825768/
+  [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
+  [1021cpp]: https://leetcode.com/submissions/detail/1331929427/
   [1038]: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
   [1038cpp]: https://leetcode.com/submissions/detail/1290408022/
   [1108]: https://leetcode.com/problems/defanging-an-ip-address/
