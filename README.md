@@ -103,6 +103,7 @@
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
   | 1823 | [Find the Winner of the Circular Game][1823]                               | [C++][1823cpp]       | Medium     |
   | 1828 | [Queries on Number of Points Inside a Circle][1828]                        | [C++][1828cpp]       | Medium     |
+  | 1832 | [Check if the Sentence Is Pangram][1832]                                   | [C++][1832cpp]       | Easy       |
   | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
@@ -340,6 +341,8 @@
   [1823cpp]: https://leetcode.com/submissions/detail/1313917839/
   [1828]: https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
   [1828cpp]: https://leetcode.com/submissions/detail/1291656472/
+  [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+  [1832cpp]: https://leetcode.com/submissions/detail/1331908548/
   [1863]: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
   [1863cpp]: https://leetcode.com/submissions/detail/1262903739/
   [1920]: https://leetcode.com/problems/build-array-from-permutation/
