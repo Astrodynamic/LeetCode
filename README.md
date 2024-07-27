@@ -117,6 +117,7 @@
   | 2037 | [Minimum Number of Moves to Seat Everyone][2037]                           | [C++][2037cpp]       | Easy       |
   | 2108 | [Find First Palindromic String in the Array][2108]                         | [C++][2108cpp]       | Easy       |
   | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp]       | Easy       |
+  | 2120 | [Execution of All Suffix Instructions Staying in a Grid][2120]             | [C++][2120cpp]       | Medium     |
   | 2125 | [Number of Laser Beams in a Bank][2125]                                    | [C++][2125cpp]       | Medium     |
   | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium     |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
@@ -376,6 +377,8 @@
   [2108cpp]: https://leetcode.com/submissions/detail/1317519887/
   [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
   [2114cpp]: https://leetcode.com/submissions/detail/1051739013/
+  [2120]: https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
+  [2120cpp]: https://leetcode.com/submissions/detail/1335201211/
   [2125]: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
   [2125cpp]: https://leetcode.com/submissions/detail/1292542770/
   [2149]: https://leetcode.com/problems/rearrange-array-elements-by-sign/
