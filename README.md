@@ -56,6 +56,7 @@
   | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp]       | Easy       |
   | 0894 | [All Possible Full Binary Trees][0894]                                     | [C++][0894cpp]       | Medium     |
   | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp]       | Easy       |
+  | 0950 | [Reveal Cards In Increasing Order][0950]                                   | [C++][0950cpp]       | Medium     |
   | 1021 | [Remove Outermost Parentheses][1021]                                       | [C++][1021cpp]       | Easy       |
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
@@ -257,6 +258,8 @@
   [0894cpp]: https://leetcode.com/submissions/detail/1336071922/
   [0938]: https://leetcode.com/problems/range-sum-of-bst/
   [0938cpp]: https://leetcode.com/submissions/detail/1051825768/
+  [0950]: https://leetcode.com/problems/reveal-cards-in-increasing-order/
+  [0950cpp]: https://leetcode.com/submissions/detail/1338216339/
   [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
   [1021cpp]: https://leetcode.com/submissions/detail/1331929427/
   [1038]: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
