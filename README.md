@@ -173,6 +173,7 @@
   | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three][3190]    | [C++][3190cpp]       | Easy       |
   | 3194 | [Minimum Average of Smallest and Largest Elements][3194]                   | [C++][3194cpp]       | Easy       |
   | 3211 | [Generate Binary Strings Without Adjacent Zeros][3211]                     | [C++][3211cpp]       | Medium     |
+  | 3232 | [Find if Digit Game Can Be Woned][3232]                                    | [C++][3232cpp]       | Easy       |
 
   ## LICENSE
 
@@ -494,3 +495,5 @@
   [3194cpp]: https://leetcode.com/submissions/detail/1316339565/
   [3211]: https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/
   [3211cpp]: https://leetcode.com/submissions/detail/1313864130/
+  [3232]: https://leetcode.com/problems/find-if-digit-game-can-be-won/
+  [3232cpp]: https://leetcode.com/submissions/detail/1340720910/
