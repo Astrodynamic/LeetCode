@@ -175,6 +175,7 @@
   | 3194 | [Minimum Average of Smallest and Largest Elements][3194]                   | [C++][3194cpp]       | Easy       |
   | 3211 | [Generate Binary Strings Without Adjacent Zeros][3211]                     | [C++][3211cpp]       | Medium     |
   | 3232 | [Find if Digit Game Can Be Woned][3232]                                    | [C++][3232cpp]       | Easy       |
+  | 3242 | [Design Neighbor Sum Services][3242]                                       | [C++][3242cpp]       | Easy       |
 
   ## LICENSE
 
@@ -500,3 +501,5 @@
   [3211cpp]: https://leetcode.com/submissions/detail/1313864130/
   [3232]: https://leetcode.com/problems/find-if-digit-game-can-be-won/
   [3232cpp]: https://leetcode.com/submissions/detail/1340720910/
+  [3242]: https://leetcode.com/problems/design-neighbor-sum-service/
+  [3242cpp]: https://leetcode.com/submissions/detail/1344657704/
