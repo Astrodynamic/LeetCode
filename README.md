@@ -113,6 +113,7 @@
   | 1832 | [Check if the Sentence Is Pangram][1832]                                   | [C++][1832cpp]       | Easy       |
   | 1859 | [Sorting the Sentence][1859]                                               | [C++][1859cpp]       | Easy       |
   | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
+  | 1913 | [Maximum Product Difference Between Two Pairs][1913]                       | [C++][1913cpp]       | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
   | 2000 | [Reverse Prefix of Word][2000]                                             | [C++][2000cpp]       | Easy       |
@@ -377,6 +378,8 @@
   [1859cpp]: https://leetcode.com/submissions/detail/1333049048/
   [1863]: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
   [1863cpp]: https://leetcode.com/submissions/detail/1262903739/
+  [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+  [1913cpp]: https://leetcode.com/submissions/detail/1348651221/
   [1920]: https://leetcode.com/problems/build-array-from-permutation/
   [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
   [1929]: https://leetcode.com/problems/concatenation-of-array/
