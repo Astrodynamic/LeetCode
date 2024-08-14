@@ -135,6 +135,7 @@
   | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp]       | Easy       |
   | 2265 | [Count Nodes Equal to Average of Subtrees][2265]                           | [C++][2265cpp]       | Medium     |
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp]       | Easy       |
+  | 2331 | [Evaluate Boolean Binary Tree][2331]                                       | [C++][2331cpp]       | Easy       |
   | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy       |
   | 2373 | [Largest Local Values in a Matrix][2373]                                   | [C++][2373cpp]       | Easy       |
   | 2391 | [Minimum Amount of Time to Collect Garbage][2391]                          | [C++][2391cpp]       | Medium     |
@@ -423,6 +424,8 @@
   [2265cpp]: https://leetcode.com/submissions/detail/1290126716/
   [2325]: https://leetcode.com/problems/decode-the-message/
   [2325cpp]: https://leetcode.com/submissions/detail/1057789757/
+  [2331]: https://leetcode.com/problems/evaluate-boolean-binary-tree/
+  [2331cpp]: https://leetcode.com/submissions/detail/1355481671/
   [2367]: https://leetcode.com/problems/number-of-arithmetic-triplets/
   [2367cpp]: https://leetcode.com/submissions/detail/1269281053/
   [2373]: https://leetcode.com/problems/largest-local-values-in-a-matrix/
