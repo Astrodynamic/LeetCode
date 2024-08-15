@@ -165,6 +165,7 @@
   | 2859 | [Sum of Values at Indices With K Set Bits][2859]                           | [C++][2859cpp]       | Easy       |
   | 2864 | [Maximum Odd Binary Number][2864]                                          | [C++][2864cpp]       | Easy       |
   | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp]       | Easy       |
+  | 2913 | [Subarrays Distinct Element Sum of Squares I][2913]                        | [C++][2913cpp]       | Easy       |
   | 2942 | [Find Words Containing Character][2942]                                    | [C++][2942cpp]       | Easy       |
   | 2956 | [Find Common Elements Between Two Arrays][2956]                            | [C++][2956cpp]       | Easy       |
   | 2974 | [Minimum Number Game][2974]                                                | [C++][2974cpp]       | Easy       |
@@ -484,6 +485,8 @@
   [2864cpp]: https://leetcode.com/submissions/detail/1333270645/
   [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
   [2894cpp]: https://leetcode.com/submissions/detail/1151703608/
+  [2913]: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+  [2913cpp]: https://leetcode.com/submissions/detail/1356314128/
   [2942]: https://leetcode.com/problems/find-words-containing-character
   [2942cpp]: https://leetcode.com/submissions/detail/1147552529/
   [2956]: https://leetcode.com/problems/find-common-elements-between-two-arrays/
