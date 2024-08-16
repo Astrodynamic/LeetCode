@@ -62,6 +62,7 @@
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
   | 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp]       | Easy       |
+  | 1266 | [Minimum Time Visiting All Points][1266]                                   | [C++][1266cpp]       | Easy       |
   | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp]       | Easy       |
   | 1282 | [Group the People Given the Group Size They Belong To][1282]               | [C++][1282cpp]       | Medium     |
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
@@ -279,6 +280,8 @@
   [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
   [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
   [1221cpp]: https://leetcode.com/submissions/detail/1051871448/
+  [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
+  [1266cpp]: https://leetcode.com/submissions/detail/1357598637/
   [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
   [1281cpp]: https://leetcode.com/submissions/detail/1051743818/
   [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
