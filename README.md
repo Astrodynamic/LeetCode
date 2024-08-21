@@ -135,6 +135,7 @@
   | 2236 | [Root Equals Sum of Children][2236]                                        | [C++][2236cpp]       | Easy       |
   | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp]       | Easy       |
   | 2265 | [Count Nodes Equal to Average of Subtrees][2265]                           | [C++][2265cpp]       | Medium     |
+  | 2315 | [Count Asterisks][2315]                                                    | [C++][2315cpp]       | Easy       |
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp]       | Easy       |
   | 2331 | [Evaluate Boolean Binary Tree][2331]                                       | [C++][2331cpp]       | Easy       |
   | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy       |
@@ -426,6 +427,8 @@
   [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
   [2265]: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
   [2265cpp]: https://leetcode.com/submissions/detail/1290126716/
+  [2315]: https://leetcode.com/problems/count-asterisks/
+  [2315cpp]: https://leetcode.com/submissions/detail/1363220057/
   [2325]: https://leetcode.com/problems/decode-the-message/
   [2325cpp]: https://leetcode.com/submissions/detail/1057789757/
   [2331]: https://leetcode.com/problems/evaluate-boolean-binary-tree/
