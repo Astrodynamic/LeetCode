@@ -68,6 +68,7 @@
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
   | 1315 | [Sum of Nodes with Even-Valued Grandparent][1315]                          | [C++][1315cpp]       | Medium     |
+  | 1323 | [Maximum 69 Number][1323]                                                  | [C++][1323cpp]       | Easy       |
   | 1329 | [Sort the Matrix Diagonally][1329]                                         | [C++][1329cpp]       | Medium     |
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
@@ -293,6 +294,8 @@
   [1313cpp]: https://leetcode.com/submissions/detail/1051859265/
   [1315]: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
   [1315cpp]: https://leetcode.com/submissions/detail/1292478762/
+  [1323]: https://leetcode.com/problems/maximum-69-number/
+  [1323cpp]: https://leetcode.com/submissions/detail/1368246860/
   [1329]: https://leetcode.com/problems/sort-the-matrix-diagonally/
   [1329cpp]: https://leetcode.com/submissions/detail/1341659351/
   [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
