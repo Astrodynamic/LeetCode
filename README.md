@@ -161,6 +161,7 @@
   | 2652 | [Sum Multiples][2652]                                                      | [C++][2652cpp]       | Easy       |
   | 2656 | [Maximum Sum With Exactly K Elements][2656]                                | [C++][2656cpp]       | Easy       |
   | 2678 | [Number of Senior Citizens][2678]                                          | [C++][2678cpp]       | Easy       |
+  | 2697 | [Lexicographically Smallest Palindrome][2697]                              | [C++][2697cpp]       | Easy       |
   | 2703 | [Return Length of Arguments Passed][2703]                                  | [JavaScript][2703js] | Easy       |
   | 2769 | [Find the Maximum Achievable Number][2769]                                 | [C++][2769cpp]       | Easy       |
   | 2798 | [Number of Employees Who Met the Target][2798]                             | [C++][2798cpp]       | Easy       |
@@ -484,6 +485,8 @@
   [2656cpp]: https://leetcode.com/submissions/detail/1379110954/
   [2678]: https://leetcode.com/problems/number-of-senior-citizens/
   [2678cpp]: https://leetcode.com/submissions/detail/1340677723/
+  [2697]: https://leetcode.com/problems/lexicographically-smallest-palindrome/
+  [2697cpp]: https://leetcode.com/submissions/detail/1379203834/
   [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
   [2703js]: https://leetcode.com/submissions/detail/1251128177/
   [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
