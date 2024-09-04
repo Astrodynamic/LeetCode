@@ -53,6 +53,7 @@
   | 0797 | [All Paths From Source to Target][0797]                                    | [C++][0797cpp]       | Medium     |
   | 0804 | [Unique Morse Code Words][0804]                                            | [C++][0804cpp]       | Easy       |
   | 0807 | [Max Increase to Keep City Skyline][0807]                                  | [C++][0807cpp]       | Medium     |
+  | 0832 | [Flipping an Image][0832]                                                  | [C++][0832cpp]       | Easy       |
   | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp]       | Easy       |
   | 0885 | [Spiral Matrix III][0885]                                                  | [C++][0885cpp]       | Medium     |
   | 0894 | [All Possible Full Binary Trees][0894]                                     | [C++][0894cpp]       | Medium     |
@@ -62,11 +63,13 @@
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
   | 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp]       | Easy       |
+  | 1266 | [Minimum Time Visiting All Points][1266]                                   | [C++][1266cpp]       | Easy       |
   | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp]       | Easy       |
   | 1282 | [Group the People Given the Group Size They Belong To][1282]               | [C++][1282cpp]       | Medium     |
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
   | 1315 | [Sum of Nodes with Even-Valued Grandparent][1315]                          | [C++][1315cpp]       | Medium     |
+  | 1323 | [Maximum 69 Number][1323]                                                  | [C++][1323cpp]       | Easy       |
   | 1329 | [Sort the Matrix Diagonally][1329]                                         | [C++][1329cpp]       | Medium     |
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
@@ -135,6 +138,7 @@
   | 2236 | [Root Equals Sum of Children][2236]                                        | [C++][2236cpp]       | Easy       |
   | 2235 | [Add Two Integers][2235]                                                   | [C++][2235cpp]       | Easy       |
   | 2265 | [Count Nodes Equal to Average of Subtrees][2265]                           | [C++][2265cpp]       | Medium     |
+  | 2315 | [Count Asterisks][2315]                                                    | [C++][2315cpp]       | Easy       |
   | 2325 | [Decode the Message][2325]                                                 | [C++][2325cpp]       | Easy       |
   | 2331 | [Evaluate Boolean Binary Tree][2331]                                       | [C++][2331cpp]       | Easy       |
   | 2367 | [Number of Arithmetic Triplets][2367]                                      | [C++][2367cpp]       | Easy       |
@@ -166,6 +170,7 @@
   | 2859 | [Sum of Values at Indices With K Set Bits][2859]                           | [C++][2859cpp]       | Easy       |
   | 2864 | [Maximum Odd Binary Number][2864]                                          | [C++][2864cpp]       | Easy       |
   | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp]       | Easy       |
+  | 2913 | [Subarrays Distinct Element Sum of Squares I][2913]                        | [C++][2913cpp]       | Easy       |
   | 2942 | [Find Words Containing Character][2942]                                    | [C++][2942cpp]       | Easy       |
   | 2956 | [Find Common Elements Between Two Arrays][2956]                            | [C++][2956cpp]       | Easy       |
   | 2974 | [Minimum Number Game][2974]                                                | [C++][2974cpp]       | Easy       |
@@ -261,6 +266,8 @@
   [0804cpp]: https://leetcode.com/submissions/detail/1057067079/
   [0807]: https://leetcode.com/problems/max-increase-to-keep-city-skyline/
   [0807cpp]: https://leetcode.com/submissions/detail/1290427634/
+  [0832]: https://leetcode.com/problems/flipping-an-image/
+  [0832cpp]: https://leetcode.com/submissions/detail/1369828417/
   [0876]: https://leetcode.com/problems/middle-of-the-linked-list/
   [0876cpp]: https://leetcode.com/submissions/detail/1036889642/
   [0885]: https://leetcode.com/problems/spiral-matrix-iii/
@@ -279,6 +286,8 @@
   [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
   [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
   [1221cpp]: https://leetcode.com/submissions/detail/1051871448/
+  [1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
+  [1266cpp]: https://leetcode.com/submissions/detail/1357598637/
   [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
   [1281cpp]: https://leetcode.com/submissions/detail/1051743818/
   [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
@@ -289,6 +298,8 @@
   [1313cpp]: https://leetcode.com/submissions/detail/1051859265/
   [1315]: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
   [1315cpp]: https://leetcode.com/submissions/detail/1292478762/
+  [1323]: https://leetcode.com/problems/maximum-69-number/
+  [1323cpp]: https://leetcode.com/submissions/detail/1368246860/
   [1329]: https://leetcode.com/problems/sort-the-matrix-diagonally/
   [1329cpp]: https://leetcode.com/submissions/detail/1341659351/
   [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
@@ -425,6 +436,8 @@
   [2235cpp]: https://leetcode.com/submissions/detail/1050810723/
   [2265]: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
   [2265cpp]: https://leetcode.com/submissions/detail/1290126716/
+  [2315]: https://leetcode.com/problems/count-asterisks/
+  [2315cpp]: https://leetcode.com/submissions/detail/1363220057/
   [2325]: https://leetcode.com/problems/decode-the-message/
   [2325cpp]: https://leetcode.com/submissions/detail/1057789757/
   [2331]: https://leetcode.com/problems/evaluate-boolean-binary-tree/
@@ -487,6 +500,8 @@
   [2864cpp]: https://leetcode.com/submissions/detail/1333270645/
   [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
   [2894cpp]: https://leetcode.com/submissions/detail/1151703608/
+  [2913]: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+  [2913cpp]: https://leetcode.com/submissions/detail/1356314128/
   [2942]: https://leetcode.com/problems/find-words-containing-character
   [2942cpp]: https://leetcode.com/submissions/detail/1147552529/
   [2956]: https://leetcode.com/problems/find-common-elements-between-two-arrays/
