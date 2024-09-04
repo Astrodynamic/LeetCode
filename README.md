@@ -179,6 +179,7 @@
   | 3065 | [Minimum Operations to Exceed Threshold Value I][3065]                     | [C++][3065cpp]       | Easy       |
   | 3099 | [Harshad Number][3099]                                                     | [C++][3099cpp]       | Easy       |
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
+  | 3131 | [Find the Integer Added to Array I][3131]                                  | [C++][3131cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
   | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
   | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three][3190]    | [C++][3190cpp]       | Easy       |
@@ -519,6 +520,8 @@
   [3099cpp]: https://leetcode.com/submissions/detail/1334863110/
   [3110]: https://leetcode.com/problems/score-of-a-string/
   [3110cpp]: https://leetcode.com/submissions/detail/1251138857/
+  [3131]: https://leetcode.com/problems/find-the-integer-added-to-array-i/
+  [3131cpp]: https://leetcode.com/submissions/detail/1379189217/
   [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
   [3146cpp]: https://leetcode.com/submissions/detail/1269235214/
   [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
