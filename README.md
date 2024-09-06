@@ -183,6 +183,7 @@
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
   | 3131 | [Find the Integer Added to Array I][3131]                                  | [C++][3131cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
+  | 3158 | [Find the XOR of Numbers Which Appear Twice][3158]                         | [C++][3158cpp]       | Easy       |
   | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
   | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three][3190]    | [C++][3190cpp]       | Easy       |
   | 3194 | [Minimum Average of Smallest and Largest Elements][3194]                   | [C++][3194cpp]       | Easy       |
@@ -530,6 +531,8 @@
   [3131cpp]: https://leetcode.com/submissions/detail/1379189217/
   [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
   [3146cpp]: https://leetcode.com/submissions/detail/1269235214/
+  [3158]: https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/
+  [3158cpp]: https://leetcode.com/submissions/detail/1381032632/
   [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
   [3162cpp]: https://leetcode.com/submissions/detail/1290184663/
   [3190]: https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
