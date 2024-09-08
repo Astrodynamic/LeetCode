@@ -546,5 +546,5 @@
   [3232cpp]: https://leetcode.com/submissions/detail/1340720910/
   [3242]: https://leetcode.com/problems/design-neighbor-sum-service/
   [3242cpp]: https://leetcode.com/submissions/detail/1344657704/
-  [2348]: https://leetcode.com/problems/snake-in-matrix/
-  [2348cpp]: https://leetcode.com/submissions/detail/1383400632/
+  [3248]: https://leetcode.com/problems/snake-in-matrix/
+  [3248cpp]: https://leetcode.com/submissions/detail/1383400632/
