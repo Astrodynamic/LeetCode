@@ -190,6 +190,7 @@
   | 3211 | [Generate Binary Strings Without Adjacent Zeros][3211]                     | [C++][3211cpp]       | Medium     |
   | 3232 | [Find if Digit Game Can Be Woned][3232]                                    | [C++][3232cpp]       | Easy       |
   | 3242 | [Design Neighbor Sum Services][3242]                                       | [C++][3242cpp]       | Easy       |
+  | 3248 | [Snake in Matrix][3248]                                                    | [C++][3248cpp]       | Easy       |
 
   ## LICENSE
 
@@ -545,3 +546,5 @@
   [3232cpp]: https://leetcode.com/submissions/detail/1340720910/
   [3242]: https://leetcode.com/problems/design-neighbor-sum-service/
   [3242cpp]: https://leetcode.com/submissions/detail/1344657704/
+  [2348]: https://leetcode.com/problems/snake-in-matrix/
+  [2348cpp]: https://leetcode.com/submissions/detail/1383400632/
