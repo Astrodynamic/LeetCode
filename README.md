@@ -191,6 +191,7 @@
   | 3232 | [Find if Digit Game Can Be Woned][3232]                                    | [C++][3232cpp]       | Easy       |
   | 3242 | [Design Neighbor Sum Services][3242]                                       | [C++][3242cpp]       | Easy       |
   | 3248 | [Snake in Matrix][3248]                                                    | [C++][3248cpp]       | Easy       |
+  | 3280 | [Convert Date to Binary][3180]                                             | [C++][3280cpp]       | Easy       |
 
   ## LICENSE
 
@@ -548,3 +549,5 @@
   [3242cpp]: https://leetcode.com/submissions/detail/1344657704/
   [3248]: https://leetcode.com/problems/snake-in-matrix/
   [3248cpp]: https://leetcode.com/submissions/detail/1383400632/
+  [3280]: https://leetcode.com/problems/convert-date-to-binary/
+  [3280cpp]: https://leetcode.com/submissions/detail/1383934536/
