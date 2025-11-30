@@ -193,6 +193,7 @@
   | 3248 | [Snake in Matrix][3248]                                                    | [C++][3248cpp]       | Easy       |
   | 3280 | [Convert Date to Binary][3280]                                             | [C++][3280cpp]       | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
+  | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
 
   ## LICENSE
 
@@ -554,3 +555,5 @@
   [3280cpp]: https://leetcode.com/submissions/detail/1383934536/
   [3512]: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
   [3512go]: https://leetcode.com/submissions/detail/1843256872/
+  [3668]: https://leetcode.com/problems/restore-finishing-order/
+  [3668go]: https://leetcode.com/submissions/detail/1843288525/
