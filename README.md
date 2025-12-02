@@ -193,6 +193,7 @@
   | 3248 | [Snake in Matrix][3248]                                                    | [C++][3248cpp]       | Easy       |
   | 3280 | [Convert Date to Binary][3280]                                             | [C++][3280cpp]       | Easy       |
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
+  | 3467 | [Transform Array by Parity][3467]                                          | [Golang][3467go]     | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
@@ -557,6 +558,8 @@
   [3280cpp]: https://leetcode.com/submissions/detail/1383934536/
   [3289]: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
   [3289go]: https://leetcode.com/submissions/detail/1843296196/
+  [3467]: https://leetcode.com/problems/transform-array-by-parity/
+  [3467go]: https://leetcode.com/submissions/detail/1844999523/
   [3512]: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
   [3512go]: https://leetcode.com/submissions/detail/1843256872/
   [3541]: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
