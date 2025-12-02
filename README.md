@@ -194,6 +194,7 @@
   | 3280 | [Convert Date to Binary][3280]                                             | [C++][3280cpp]       | Easy       |
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
+  | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
 
   ## LICENSE
@@ -558,5 +559,7 @@
   [3289go]: https://leetcode.com/submissions/detail/1843296196/
   [3512]: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
   [3512go]: https://leetcode.com/submissions/detail/1843256872/
+  [3541]: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
+  [3541go]: https://leetcode.com/submissions/detail/1844989033/
   [3668]: https://leetcode.com/problems/restore-finishing-order/
   [3668go]: https://leetcode.com/submissions/detail/1843288525/
