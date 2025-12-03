@@ -196,6 +196,7 @@
   | 3467 | [Transform Array by Parity][3467]                                          | [Golang][3467go]     | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
+  | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
 
   ## LICENSE
@@ -564,5 +565,7 @@
   [3512go]: https://leetcode.com/submissions/detail/1843256872/
   [3541]: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
   [3541go]: https://leetcode.com/submissions/detail/1844989033/
+  [3701]: https://leetcode.com/problems/compute-alternating-sum/
+  [3701go]: https://leetcode.com/submissions/detail/1845530858/
   [3668]: https://leetcode.com/problems/restore-finishing-order/
   [3668go]: https://leetcode.com/submissions/detail/1843288525/
