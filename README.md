@@ -195,6 +195,7 @@
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
   | 3467 | [Transform Array by Parity][3467]                                          | [Golang][3467go]     | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
+  | 3516 | [Find Closest Person][3516]                                                | [Golang][3516go]     | Easy       |
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
   | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
@@ -563,6 +564,8 @@
   [3467go]: https://leetcode.com/submissions/detail/1844999523/
   [3512]: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
   [3512go]: https://leetcode.com/submissions/detail/1843256872/
+  [3516]: https://leetcode.com/problems/find-closest-person/
+  [3516go]: https://leetcode.com/submissions/detail/1845552787/
   [3541]: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
   [3541go]: https://leetcode.com/submissions/detail/1844989033/
   [3701]: https://leetcode.com/problems/compute-alternating-sum/
