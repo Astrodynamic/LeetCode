@@ -194,6 +194,7 @@
   | 3280 | [Convert Date to Binary][3280]                                             | [C++][3280cpp]       | Easy       |
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
   | 3467 | [Transform Array by Parity][3467]                                          | [Golang][3467go]     | Easy       |
+  | 3498 | [Reverse Degree of a String][3498]                                         | [Golang][3498go]     | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
   | 3516 | [Find Closest Person][3516]                                                | [Golang][3516go]     | Easy       |
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
@@ -562,6 +563,8 @@
   [3289go]: https://leetcode.com/submissions/detail/1843296196/
   [3467]: https://leetcode.com/problems/transform-array-by-parity/
   [3467go]: https://leetcode.com/submissions/detail/1844999523/
+  [3498]: https://leetcode.com/problems/reverse-degree-of-a-string/
+  [3498go]: https://leetcode.com/submissions/detail/1846576187/
   [3512]: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
   [3512go]: https://leetcode.com/submissions/detail/1843256872/
   [3516]: https://leetcode.com/problems/find-closest-person/
