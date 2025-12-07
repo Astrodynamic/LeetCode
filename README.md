@@ -87,6 +87,7 @@
   | 1486 | [XOR Operation in an Array][1486]                                          | [C++][1486cpp]       | Easy       |
   | 1512 | [Number of Good Pairs][1512]                                               | [C++][1512cpp]       | Easy       |
   | 1528 | [Shuffle String][1528]                                                     | [C++][1528cpp]       | Easy       |
+  | 1534 | [Count Good Triplets][1534]                                                | [Golang][1534go]     | Easy       |
   | 1561 | [Maximum Number of Coins You Can Get][1561]                                | [C++][1561cpp]       | Medium     |
   | 1572 | [Matrix Diagonal Sum][1572]                                                | [C++][1572cpp]       | Easy       |
   | 1588 | [Sum of All Odd Length Subarrays][1588]                                    | [C++][1588cpp]       | Easy       |
@@ -351,6 +352,8 @@
   [1512cpp]: https://leetcode.com/submissions/detail/1050836269/
   [1528]: https://leetcode.com/problems/shuffle-string/
   [1528cpp]: https://leetcode.com/submissions/detail/1053813102/
+  [1534]: https://leetcode.com/problems/count-good-triplets/
+  [1534go]: https://leetcode.com/submissions/detail/1849272790/
   [1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
   [1561cpp]: https://leetcode.com/submissions/detail/1317421301/
   [1572]: https://leetcode.com/problems/matrix-diagonal-sum/
