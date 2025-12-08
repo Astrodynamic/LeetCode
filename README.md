@@ -196,6 +196,7 @@
   | 3280 | [Convert Date to Binary][3280]                                             | [C++][3280cpp]       | Easy       |
   | 3285 | [Find Indices of Stable Mountains][3285]                                   | [Golang][3285go]     | Easy       |
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
+  | 3427 | [Sum of Variable Length Subarrays][3427]                                   | [Golang][3427go]     | Easy       |
   | 3467 | [Transform Array by Parity][3467]                                          | [Golang][3467go]     | Easy       |
   | 3498 | [Reverse Degree of a String][3498]                                         | [Golang][3498go]     | Easy       |
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
@@ -570,6 +571,8 @@
   [3285go]: https://leetcode.com/submissions/detail/1847990520/
   [3289]: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
   [3289go]: https://leetcode.com/submissions/detail/1843296196/
+  [3427]: https://leetcode.com/problems/sum-of-variable-length-subarrays/
+  [3427go]: https://leetcode.com/submissions/detail/1850110484/
   [3467]: https://leetcode.com/problems/transform-array-by-parity/
   [3467go]: https://leetcode.com/submissions/detail/1844999523/
   [3498]: https://leetcode.com/problems/reverse-degree-of-a-string/
