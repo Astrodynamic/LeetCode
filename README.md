@@ -134,6 +134,7 @@
   | 2149 | [Rearrange Array Elements by Sign][2149]                                   | [C++][2149cpp]       | Medium     |
   | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits][2160]            | [C++][2160cpp]       | Easy       |
   | 2161 | [Partition Array According to Given Pivot][2161]                           | [C++][2161cpp]       | Medium     |
+  | 2176 | [Count Equal and Divisible Pairs in an Array][2176]                        | [Golang][2176go]     | Easy       |
   | 2185 | [Counting Words With a Given Prefix][2185]                                 | [Golang][2185go]     | Easy       |
   | 2188 | [Merge Nodes in Between Zeros][2188]                                       | [C++][2188cpp]       | Medium     |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
@@ -450,6 +451,8 @@
   [2160cpp]: https://leetcode.com/submissions/detail/1051749058/
   [2161]: https://leetcode.com/problems/partition-array-according-to-given-pivot/
   [2161cpp]: https://leetcode.com/submissions/detail/1340709966/
+  [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+  [2176go]: https://leetcode.com/submissions/detail/1853367552/
   [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
   [2185go]: https://leetcode.com/submissions/detail/1851693531/
   [2188]: https://leetcode.com/problems/merge-nodes-in-between-zeros/
