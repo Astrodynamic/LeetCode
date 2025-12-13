@@ -82,6 +82,7 @@
   | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR][1442]               | [C++][1442cpp]       | Medium     |
   | 1464 | [Maximum Product of Two Elements in an Array][1464]                        | [C++][1464cpp]       | Easy       |
   | 1470 | [Shuffle the Array][1470]                                                  | [C++][1470cpp]       | Easy       |
+  | 1475 | [Final Prices With a Special Discount in a Shop][1475]                     | [Golang][1475go]     | Easy       |
   | 1476 | [Subrectangle Queries][1476]                                               | [C++][1476cpp]       | Medium     |
   | 1480 | [Running Sum of 1d Array][1480]                                            | [C++][1480cpp]       | Easy       |
   | 1486 | [XOR Operation in an Array][1486]                                          | [C++][1486cpp]       | Easy       |
@@ -347,6 +348,8 @@
   [1464cpp]: https://leetcode.com/submissions/detail/1337026824/
   [1470]: https://leetcode.com/problems/shuffle-the-array/
   [1470cpp]: https://leetcode.com/submissions/detail/1049530990/
+  [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+  [1475go]: https://leetcode.com/submissions/detail/1854284745/
   [1476]: https://leetcode.com/problems/subrectangle-queries/
   [1476cpp]: https://leetcode.com/submissions/detail/1290338879/
   [1480]: https://leetcode.com/problems/running-sum-of-1d-array/
