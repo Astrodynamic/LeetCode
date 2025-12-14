@@ -209,6 +209,7 @@
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
   | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
+  | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
 
   ## LICENSE
 
@@ -602,3 +603,5 @@
   [3701go]: https://leetcode.com/submissions/detail/1845530858/
   [3668]: https://leetcode.com/problems/restore-finishing-order/
   [3668go]: https://leetcode.com/submissions/detail/1843288525/
+  [3683]: https://leetcode.com/problems/earliest-time-to-finish-one-task/
+  [3683go]: https://leetcode.com/submissions/detail/1855156296/
