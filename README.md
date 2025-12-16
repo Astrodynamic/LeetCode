@@ -208,6 +208,7 @@
   | 3512 | [Minimum Operations to Make Array Sum Divisible by K][3512]                | [Golang][3512go]     | Easy       |
   | 3516 | [Find Closest Person][3516]                                                | [Golang][3516go]     | Easy       |
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
+  | 3658 | [GCD of Odd and Even Sums][3658]                                           | [Golang][3658go]     | Easy       |
   | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
   | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
@@ -602,6 +603,8 @@
   [3516go]: https://leetcode.com/submissions/detail/1845552787/
   [3541]: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
   [3541go]: https://leetcode.com/submissions/detail/1844989033/
+  [3658]: https://leetcode.com/problems/gcd-of-odd-and-even-sums/
+  [3658go]: https://leetcode.com/submissions/detail/1856966963/
   [3701]: https://leetcode.com/problems/compute-alternating-sum/
   [3701go]: https://leetcode.com/submissions/detail/1845530858/
   [3668]: https://leetcode.com/problems/restore-finishing-order/
