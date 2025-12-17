@@ -174,6 +174,7 @@
   | 2810 | [Faulty Keyboard][2810]                                                    | [C++][2810cpp]       | Easy       |
   | 2824 | [Count Pairs Whose Sum is Less than Target][2824]                          | [C++][2824cpp]       | Easy       |
   | 2828 | [Check if a String Is an Acronym of Words in Sentence][2828]               | [C++][2828cpp]       | Eady       |
+  | 2843 | [Count Symmetric Integers][2843]                                           | [Golang][2843go]     | Easy       |
   | 2859 | [Sum of Values at Indices With K Set Bits][2859]                           | [C++][2859cpp]       | Easy       |
   | 2864 | [Maximum Odd Binary Number][2864]                                          | [C++][2864cpp]       | Easy       |
   | 2894 | [Divisible and Non-divisible Sums Difference][2894]                        | [C++][2894cpp]       | Easy       |
@@ -535,6 +536,8 @@
   [2824cpp]: https://leetcode.com/submissions/detail/1050808683/
   [2828]: https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
   [2828cpp]: https://leetcode.com/submissions/detail/1334170439/
+  [2843]: https://leetcode.com/problems/count-symmetric-integers/
+  [2843go]: https://leetcode.com/submissions/detail/1857638967/
   [2859]: https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
   [2859cpp]: https://leetcode.com/submissions/detail/1051849278/
   [2864]: https://leetcode.com/problems/maximum-odd-binary-number/
