@@ -122,6 +122,7 @@
   | 1913 | [Maximum Product Difference Between Two Pairs][1913]                       | [C++][1913cpp]       | Easy       |
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
+  | 1935 | [Maximum Number of Words You Can Type][1935]                               | [Golang][1935go]     | Easy       |
   | 1945 | [Sum of Digits of String After Convert][1945]                              | [C++][1945cpp]       | Easy       |
   | 2000 | [Reverse Prefix of Word][2000]                                             | [C++][2000cpp]       | Easy       |
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
@@ -433,6 +434,8 @@
   [1920cpp]: https://leetcode.com/submissions/detail/1048619629/
   [1929]: https://leetcode.com/problems/concatenation-of-array/
   [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
+  [1935]: https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+  [1935go]: https://leetcode.com/submissions/detail/1859464067/
   [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
   [1945cpp]: https://leetcode.com/submissions/detail/1379075327/
   [2000]: https://leetcode.com/problems/reverse-prefix-of-word/
