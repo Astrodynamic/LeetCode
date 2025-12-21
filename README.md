@@ -215,6 +215,7 @@
   | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
   | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
+  | 3688 | [Bitwise OR of Even Numbers in an Array][3688]                             | [Golang][3688go]     | Easy       |
 
   ## LICENSE
 
@@ -620,3 +621,5 @@
   [3668go]: https://leetcode.com/submissions/detail/1843288525/
   [3683]: https://leetcode.com/problems/earliest-time-to-finish-one-task/
   [3683go]: https://leetcode.com/submissions/detail/1855156296/
+  [3688]: https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/
+  [3688go]: https://leetcode.com/submissions/detail/1861085921/
