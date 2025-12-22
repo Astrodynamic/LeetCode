@@ -216,6 +216,7 @@
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
   | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
   | 3688 | [Bitwise OR of Even Numbers in an Array][3688]                             | [Golang][3688go]     | Easy       |
+  | 3783 | [Mirror Distance of an Integer][3783]                                      | [Golang][3783go]     | Easy       |
 
   ## LICENSE
 
@@ -623,3 +624,5 @@
   [3683go]: https://leetcode.com/submissions/detail/1855156296/
   [3688]: https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/
   [3688go]: https://leetcode.com/submissions/detail/1861085921/
+  [3783]: https://leetcode.com/problems/mirror-distance-of-an-integer/
+  [3783go]: https://leetcode.com/submissions/detail/1862120599/
