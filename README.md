@@ -117,6 +117,7 @@
   | 1823 | [Find the Winner of the Circular Game][1823]                               | [C++][1823cpp]       | Medium     |
   | 1828 | [Queries on Number of Points Inside a Circle][1828]                        | [C++][1828cpp]       | Medium     |
   | 1832 | [Check if the Sentence Is Pangram][1832]                                   | [C++][1832cpp]       | Easy       |
+  | 1844 | [Replace All Digits with Characters][1844]                                 | [Golang][1844go]     | Easy       |
   | 1859 | [Sorting the Sentence][1859]                                               | [C++][1859cpp]       | Easy       |
   | 1863 | [Sum of All Subset XOR Totals][1863]                                       | [C++][1863cpp]       | Easy       |
   | 1913 | [Maximum Product Difference Between Two Pairs][1913]                       | [C++][1913cpp]       | Easy       |
@@ -427,6 +428,8 @@
   [1828cpp]: https://leetcode.com/submissions/detail/1291656472/
   [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
   [1832cpp]: https://leetcode.com/submissions/detail/1331908548/
+  [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
+  [1844go]: https://leetcode.com/submissions/detail/1863819216/
   [1859]: https://leetcode.com/problems/sorting-the-sentence/
   [1859cpp]: https://leetcode.com/submissions/detail/1333049048/
   [1863]: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
