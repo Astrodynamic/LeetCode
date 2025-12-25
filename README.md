@@ -207,6 +207,7 @@
   | 3300 | [Minimum Element After Replacement With Digit Sum][3300]                   | [Golang][3300go]     | Easy       |
   | 3427 | [Sum of Variable Length Subarrays][3427]                                   | [Golang][3427go]     | Easy       |
   | 3432 | [ Count Partitions with Even Sum Difference][3432]                         | [Golang][3432go]     | Easy       |
+  | 3461 | [Check If Digits Are Equal in String After Operations I][3461]             | [Golang][3461go]     | Easy       |
   | 3467 | [Transform Array by Parity][3467]                                          | [Golang][3467go]     | Easy       |
   | 3498 | [Reverse Degree of a String][3498]                                         | [Golang][3498go]     | Easy       |
   | 3502 | [Count the Digits That Divide a Number][3502]                              | [Golang][3502go]     | Easy       |
@@ -608,6 +609,8 @@
   [3427go]: https://leetcode.com/submissions/detail/1850110484/
   [3432]: https://leetcode.com/problems/count-partitions-with-even-sum-difference/
   [3432go]: https://leetcode.com/submissions/detail/1850678594/
+  [3461]: https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/
+  [3461go]: https://leetcode.com/submissions/detail/1864901527/
   [3467]: https://leetcode.com/problems/transform-array-by-parity/
   [3467go]: https://leetcode.com/submissions/detail/1844999523/
   [3498]: https://leetcode.com/problems/reverse-degree-of-a-string/
