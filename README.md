@@ -125,6 +125,7 @@
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
   | 1935 | [Maximum Number of Words You Can Type][1935]                               | [Golang][1935go]     | Easy       |
   | 1945 | [Sum of Digits of String After Convert][1945]                              | [C++][1945cpp]       | Easy       |
+  | 1967 | [Number of Strings That Appear as Substrings in Word][1967]                | [Golang][1967go]     | Easy       |
   | 2000 | [Reverse Prefix of Word][2000]                                             | [C++][2000cpp]       | Easy       |
   | 2006 | [Count Number of Pairs With Absolute Difference K][2006]                   | [C++][2006cpp]       | Easy       |
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
@@ -445,6 +446,8 @@
   [1935go]: https://leetcode.com/submissions/detail/1859464067/
   [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
   [1945cpp]: https://leetcode.com/submissions/detail/1379075327/
+  [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+  [1967go]: https://leetcode.com/submissions/detail/1865479865/
   [2000]: https://leetcode.com/problems/reverse-prefix-of-word/
   [2000cpp]: https://leetcode.com/submissions/detail/1291672432/
   [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
