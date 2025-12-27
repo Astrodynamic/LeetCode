@@ -66,6 +66,7 @@
   | 1266 | [Minimum Time Visiting All Points][1266]                                   | [C++][1266cpp]       | Easy       |
   | 1281 | [Subtract the Product and Sum of Digits of an Integer][1281]               | [C++][1281cpp]       | Easy       |
   | 1282 | [Group the People Given the Group Size They Belong To][1282]               | [C++][1282cpp]       | Medium     |
+  | 1290 | [Convert Binary Number in a Linked List to Integer][1290]                  | [Golang][1290go]     | Easy       |
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
   | 1315 | [Sum of Nodes with Even-Valued Grandparent][1315]                          | [C++][1315cpp]       | Medium     |
@@ -328,6 +329,8 @@
   [1281cpp]: https://leetcode.com/submissions/detail/1051743818/
   [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
   [1282cpp]: https://leetcode.com/submissions/detail/1290293523/
+  [1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+  [1290go]: https://leetcode.com/submissions/detail/1866367247/
   [1302]: https://leetcode.com/problems/deepest-leaves-sum/
   [1302cpp]: https://leetcode.com/submissions/detail/1290145143/
   [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
