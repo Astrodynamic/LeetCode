@@ -48,6 +48,7 @@
   | 0628 | [Maximum Product of Three Numbers][0628]                                   | [C++][0628cpp]       | Easy       |
   | 0654 | [Maximum Binary Tree][0654]                                                | [C++][0654cpp]       | Medium     |
   | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp]       | Easy       |
+  | 0700 | [Search in a Binary Search Tree][0700]                                     | [Golang][0700go]     | Easy       |
   | 0709 | [To Lower Case][0709]                                                      | [C++][0709cpp]       | Easy       |
   | 0771 | [Jewels and Stones][0771]                                                  | [C++][0771cpp]       | Easy       |
   | 0797 | [All Paths From Source to Target][0797]                                    | [C++][0797cpp]       | Medium     |
@@ -293,6 +294,8 @@
   [0654cpp]: https://leetcode.com/submissions/detail/1300237881/
   [0680]: https://leetcode.com/problems/valid-palindrome-ii/
   [0680cpp]: https://leetcode.com/submissions/detail/1037968613/
+  [0700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
+  [0700go]: https://leetcode.com/submissions/detail/1868220936/
   [0709]: https://leetcode.com/problems/to-lower-case/
   [0709cpp]: https://leetcode.com/submissions/detail/1057104517/
   [0771]: https://leetcode.com/problems/jewels-and-stones/
