@@ -108,6 +108,7 @@
   | 1684 | [Count the Number of Consistent Strings][1684]                             | [C++][1684cpp]       | Easy       |
   | 1688 | [Count of Matches in Tournament][1688]                                     | [C++][1688cpp]       | Easy       |
   | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers][1689]            | [C++][1689cpp]       | Medium     |
+  | 1716 | [Calculate Money in Leetcode Bank][1716]                                   | [Golang][1716go]     | Easy       |
   | 1720 | [Decode XORed Array][1720]                                                 | [C++][1720cpp]       | Easy       |
   | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp]       | Easy       |
   | 1732 | [Find the Highest Altitude][1732]                                          | [C++][1732cpp]       | Easy       |
@@ -414,6 +415,8 @@
   [1688cpp]: https://leetcode.com/submissions/detail/1292599090/
   [1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
   [1689cpp]: https://leetcode.com/submissions/detail/1251166506/
+  [1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+  [1716go]: https://leetcode.com/submissions/detail/1874018277/
   [1720]: https://leetcode.com/problems/decode-xored-array/
   [1720cpp]: https://leetcode.com/submissions/detail/1051833450/
   [1725]: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
