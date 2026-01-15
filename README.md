@@ -224,6 +224,7 @@
   | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
   | 3688 | [Bitwise OR of Even Numbers in an Array][3688]                             | [Golang][3688go]     | Easy       |
   | 3783 | [Mirror Distance of an Integer][3783]                                      | [Golang][3783go]     | Easy       |
+  | 3794 | [Reverse String Prefix][3794]                                              | [Golang][3794go]     | Easy       |
 
   ## LICENSE
 
@@ -647,3 +648,5 @@
   [3688go]: https://leetcode.com/submissions/detail/1861085921/
   [3783]: https://leetcode.com/problems/mirror-distance-of-an-integer/
   [3783go]: https://leetcode.com/submissions/detail/1862120599/
+  [3794]: https://leetcode.com/problems/reverse-string-prefix/
+  [3794go]: https://leetcode.com/submissions/detail/1885792284/
