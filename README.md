@@ -210,6 +210,7 @@
   | 3285 | [Find Indices of Stable Mountains][3285]                                   | [Golang][3285go]     | Easy       |
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
   | 3300 | [Minimum Element After Replacement With Digit Sum][3300]                   | [Golang][3300go]     | Easy       |
+  | 3340 | [Check Balanced String][3340]                                              | [Golang][3340go]     | Easy       |
   | 3427 | [Sum of Variable Length Subarrays][3427]                                   | [Golang][3427go]     | Easy       |
   | 3432 | [ Count Partitions with Even Sum Difference][3432]                         | [Golang][3432go]     | Easy       |
   | 3461 | [Check If Digits Are Equal in String After Operations I][3461]             | [Golang][3461go]     | Easy       |
@@ -622,6 +623,8 @@
   [3289go]: https://leetcode.com/submissions/detail/1843296196/
   [3300]: https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
   [3300go]: https://leetcode.com/submissions/detail/1852731968/
+  [3340]: https://leetcode.com/problems/check-balanced-string/
+  [3340go]: https://leetcode.com/submissions/detail/1889547492/
   [3427]: https://leetcode.com/problems/sum-of-variable-length-subarrays/
   [3427go]: https://leetcode.com/submissions/detail/1850110484/
   [3432]: https://leetcode.com/problems/count-partitions-with-even-sum-difference/
