@@ -177,6 +177,7 @@
   | 2703 | [Return Length of Arguments Passed][2703]                                  | [JavaScript][2703js] | Easy       |
   | 2744 | [Find Maximum Number of String Pairs][2744]                                | [Golang][2744go]     | Easy       |
   | 2769 | [Find the Maximum Achievable Number][2769]                                 | [C++][2769cpp]       | Easy       |
+  | 2778 | [Sum of Squares of Special Elements][2778]                                 | [Golang][2778go]     | Easy       |
   | 2798 | [Number of Employees Who Met the Target][2798]                             | [C++][2798cpp]       | Easy       |
   | 2807 | [Insert Greatest Common Divisors in Linked List][2807]                     | [C++][2807cpp]       | Medium     |
   | 2810 | [Faulty Keyboard][2810]                                                    | [C++][2810cpp]       | Easy       |
@@ -559,6 +560,8 @@
   [2744go]: https://leetcode.com/submissions/detail/1888386213/
   [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
   [2769cpp]: https://leetcode.com/submissions/detail/1049548431/
+  [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
+  [2778go]: https://leetcode.com/submissions/detail/1892701804/
   [2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
   [2798cpp]: https://leetcode.com/submissions/detail/1050823191/
   [2807]: https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/
