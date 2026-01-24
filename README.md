@@ -119,6 +119,7 @@
   | 1791 | [Find Center of Star Graph][1791]                                          | [C++][1791cpp]       | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
   | 1823 | [Find the Winner of the Circular Game][1823]                               | [C++][1823cpp]       | Medium     |
+  | 1827 | [Minimum Operations to Make the Array Increasing][1827]                    | [Golang][1827go]     | Easy       |
   | 1828 | [Queries on Number of Points Inside a Circle][1828]                        | [C++][1828cpp]       | Medium     |
   | 1832 | [Check if the Sentence Is Pangram][1832]                                   | [C++][1832cpp]       | Easy       |
   | 1844 | [Replace All Digits with Characters][1844]                                 | [Golang][1844go]     | Easy       |
@@ -446,6 +447,8 @@
   [1816cpp]: https://leetcode.com/submissions/detail/1054767591/
   [1823]: https://leetcode.com/problems/find-the-winner-of-the-circular-game/
   [1823cpp]: https://leetcode.com/submissions/detail/1313917839/
+  [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+  [1827go]: https://leetcode.com/submissions/detail/1894881847/
   [1828]: https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
   [1828cpp]: https://leetcode.com/submissions/detail/1291656472/
   [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
