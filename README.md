@@ -215,6 +215,7 @@
   | 3285 | [Find Indices of Stable Mountains][3285]                                   | [Golang][3285go]     | Easy       |
   | 3289 | [The Two Sneaky Numbers of Digitville][3289]                               | [Golang][3289go]     | Easy       |
   | 3300 | [Minimum Element After Replacement With Digit Sum][3300]                   | [Golang][3300go]     | Easy       |
+  | 3304 | [Find the K-th Character in String Game I][3304]                           | [Golang][3304go]     | Easy       |
   | 3314 | [Construct the Minimum Bitwise Array I][3314]                              | [Golang][3314go]     | Easy       |
   | 3340 | [Check Balanced String][3340]                                              | [Golang][3340go]     | Easy       |
   | 3427 | [Sum of Variable Length Subarrays][3427]                                   | [Golang][3427go]     | Easy       |
@@ -639,6 +640,8 @@
   [3289go]: https://leetcode.com/submissions/detail/1843296196/
   [3300]: https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
   [3300go]: https://leetcode.com/submissions/detail/1852731968/
+  [3304]: https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
+  [3304go]: https://leetcode.com/submissions/detail/1898235622/
   [3314]: https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/
   [3314go]: https://leetcode.com/submissions/detail/1891647299/
   [3340]: https://leetcode.com/problems/check-balanced-string/
