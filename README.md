@@ -201,6 +201,7 @@
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
   | 3131 | [Find the Integer Added to Array I][3131]                                  | [C++][3131cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
+  | 3151 | [Special Array][3151]                                                      | [Golang][3151go]     | Easy       |
   | 3158 | [Find the XOR of Numbers Which Appear Twice][3158]                         | [C++][3158cpp]       | Easy       |
   | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
   | 3174 | [Clear Digits][3174]                                                       | [Golang][3174go]     | Easy       |
@@ -612,6 +613,8 @@
   [3131cpp]: https://leetcode.com/submissions/detail/1379189217/
   [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
   [3146cpp]: https://leetcode.com/submissions/detail/1269235214/
+  [3151]: https://leetcode.com/problems/special-array-i/
+  [3151go]: https://leetcode.com/submissions/detail/1899247413/
   [3158]: https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/
   [3158cpp]: https://leetcode.com/submissions/detail/1381032632/
   [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
