@@ -62,6 +62,7 @@
   | 0950 | [Reveal Cards In Increasing Order][0950]                                   | [C++][0950cpp]       | Medium     |
   | 1021 | [Remove Outermost Parentheses][1021]                                       | [C++][1021cpp]       | Easy       |
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
+  | 1051 | [Height Checker][1051]                                                     | [Golang][1051go]     | Easy       |
   | 1108 | [Defanging an IP Address][1108]                                            | [C++][1108cpp]       | Easy       |
   | 1221 | [Split a String in Balanced Strings][1221]                                 | [C++][1221cpp]       | Easy       |
   | 1266 | [Minimum Time Visiting All Points][1266]                                   | [C++][1266cpp]       | Easy       |
@@ -335,6 +336,8 @@
   [1021cpp]: https://leetcode.com/submissions/detail/1331929427/
   [1038]: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
   [1038cpp]: https://leetcode.com/submissions/detail/1290408022/
+  [1051]: https://leetcode.com/problems/height-checker/
+  [1051go]: https://leetcode.com/submissions/detail/1900450635/
   [1108]: https://leetcode.com/problems/defanging-an-ip-address/
   [1108cpp]: https://leetcode.com/submissions/detail/1048635629/
   [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
