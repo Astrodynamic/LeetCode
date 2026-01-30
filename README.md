@@ -137,6 +137,7 @@
   | 2011 | [Final Value of Variable After Performing Operations][2011]                | [C++][2011cpp]       | Easy       |
   | 2037 | [Minimum Number of Moves to Seat Everyone][2037]                           | [C++][2037cpp]       | Easy       |
   | 2053 | [Kth Distinct String in an Array][2053]                                    | [C++][2053cpp]       | Easy       |
+  | 2103 | [Rings and Rods][2103]                                                     | [Golang][2103go]     | Easy       |
   | 2108 | [Find First Palindromic String in the Array][2108]                         | [C++][2108cpp]       | Easy       |
   | 2114 | [Maximum Number of Words Found in Sentences][2114]                         | [C++][2114cpp]       | Easy       |
   | 2119 | [A Number After a Double Reversal][2119]                                   | [Golang][2119go]     | Easy       |
@@ -486,6 +487,8 @@
   [2037cpp]: https://leetcode.com/submissions/detail/1290320910/
   [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
   [2053cpp]: https://leetcode.com/submissions/detail/1379227998/
+  [2103]: https://leetcode.com/problems/rings-and-rods/
+  [2103go]: https://leetcode.com/submissions/detail/1901601930/
   [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
   [2108cpp]: https://leetcode.com/submissions/detail/1317519887/
   [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
