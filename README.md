@@ -45,6 +45,7 @@
   | 0441 | [Arranging Coins][0441]                                                    | [C++][0441cpp]       | Easy       |
   | 0535 | [Encode and Decode TinyURL][0535]                                          | [C++][0535cpp]       | Medium     |
   | 0557 | [Reverse Words in a String III][0557]                                      | [C++][0557cpp]       | Easy       |
+  | 0561 | [Array Partition][0561]                                                    | [Golang][0561go]     | Easy       |
   | 0628 | [Maximum Product of Three Numbers][0628]                                   | [C++][0628cpp]       | Easy       |
   | 0654 | [Maximum Binary Tree][0654]                                                | [C++][0654cpp]       | Medium     |
   | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp]       | Easy       |
@@ -303,6 +304,8 @@
   [0535cpp]: https://leetcode.com/submissions/detail/1290161442/
   [0557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
   [0557cpp]: https://leetcode.com/submissions/detail/1072820965/
+  [0561]: https://leetcode.com/problems/array-partition/
+  [0561go]: https://leetcode.com/submissions/detail/1902504139/
   [0628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
   [0628cpp]: https://leetcode.com/submissions/detail/1037692372/
   [0654]: https://leetcode.com/problems/maximum-binary-tree/
