@@ -239,6 +239,7 @@
   | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
   | 3688 | [Bitwise OR of Even Numbers in an Array][3688]                             | [Golang][3688go]     | Easy       |
   | 3731 | [Find Missing Elements][3731]                                              | [Golang][3731go]     | Easy       |
+  | 3736 | [Minimum Moves to Equal Array Elements III][3736]                          | [Golang][3736go]     | Easy       |
   | 3783 | [Mirror Distance of an Integer][3783]                                      | [Golang][3783go]     | Easy       |
   | 3794 | [Reverse String Prefix][3794]                                              | [Golang][3794go]     | Easy       |
 
@@ -694,6 +695,8 @@
   [3688go]: https://leetcode.com/submissions/detail/1861085921/
   [3731]: https://leetcode.com/problems/find-missing-elements/
   [3731go]: https://leetcode.com/submissions/detail/1887318664/
+  [3736]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/
+  [3736go]: https://leetcode.com/submissions/detail/1907401309/
   [3783]: https://leetcode.com/problems/mirror-distance-of-an-integer/
   [3783go]: https://leetcode.com/submissions/detail/1862120599/
   [3794]: https://leetcode.com/problems/reverse-string-prefix/
