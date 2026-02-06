@@ -61,6 +61,7 @@
   | 0885 | [Spiral Matrix III][0885]                                                  | [C++][0885cpp]       | Medium     |
   | 0894 | [All Possible Full Binary Trees][0894]                                     | [C++][0894cpp]       | Medium     |
   | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp]       | Easy       |
+  | 0942 | [DI String Match][0942]                                                    | [Golang][0942go]     | Easy       |
   | 0950 | [Reveal Cards In Increasing Order][0950]                                   | [C++][0950cpp]       | Medium     |
   | 1021 | [Remove Outermost Parentheses][1021]                                       | [C++][1021cpp]       | Easy       |
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
@@ -340,6 +341,8 @@
   [0894cpp]: https://leetcode.com/submissions/detail/1336071922/
   [0938]: https://leetcode.com/problems/range-sum-of-bst/
   [0938cpp]: https://leetcode.com/submissions/detail/1051825768/
+  [0942]: https://leetcode.com/problems/di-string-match/
+  [0942go]: https://leetcode.com/submissions/detail/1909727131/
   [0950]: https://leetcode.com/problems/reveal-cards-in-increasing-order/
   [0950cpp]: https://leetcode.com/submissions/detail/1338216339/
   [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
