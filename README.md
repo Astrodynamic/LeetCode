@@ -176,6 +176,7 @@
   | 2535 | [Difference Between Element Sum and Digit Sum of an Array][2535]           | [C++][2535cpp]       | Easy       |
   | 2545 | [Sort the Students by Their Kth Score][2545]                               | [C++][2545cpp]       | Medium     |
   | 2549 | [Count Distinct Numbers on Board][2549]                                    | [C++][2549cpp]       | Easy       |
+  | 2553 | [Separate the Digits in an Array][2553]                                    | [Golang][2553go]     | Easy       |
   | 2570 | [Merge Two 2D Arrays by Summing Values][2570]                              | [Golang][2570go]     | Easy       |
   | 2574 | [Left and Right Sum Differences][2574]                                     | [C++][2574cpp]       | Easy       |
   | 2610 | [Convert an Array Into a 2D Array With Conditions][2610]                   | [C++][2610cpp]       | Medium     |
@@ -571,6 +572,8 @@
   [2545cpp]: https://leetcode.com/submissions/detail/1308728096/
   [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
   [2549cpp]: https://leetcode.com/submissions/detail/1038006278/
+  [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
+  [2553go]: https://leetcode.com/submissions/detail/1910797510/
   [2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
   [2570go]: https://leetcode.com/submissions/detail/1894028051/
   [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
