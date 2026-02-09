@@ -73,6 +73,7 @@
   | 1282 | [Group the People Given the Group Size They Belong To][1282]               | [C++][1282cpp]       | Medium     |
   | 1290 | [Convert Binary Number in a Linked List to Integer][1290]                  | [Golang][1290go]     | Easy       |
   | 1302 | [Deepest Leaves Sum][1302]                                                 | [C++][1302cpp]       | Medium     |
+  | 1309 | [Decrypt String from Alphabet to Integer Mapping][1309]                    | [Golang][1309go]     | Easy       |
   | 1313 | [Decompress Run-Length Encoded List][1313]                                 | [C++][1313cpp]       | Easy       |
   | 1315 | [Sum of Nodes with Even-Valued Grandparent][1315]                          | [C++][1315cpp]       | Medium     |
   | 1323 | [Maximum 69 Number][1323]                                                  | [C++][1323cpp]       | Easy       |
@@ -367,6 +368,8 @@
   [1290go]: https://leetcode.com/submissions/detail/1866367247/
   [1302]: https://leetcode.com/problems/deepest-leaves-sum/
   [1302cpp]: https://leetcode.com/submissions/detail/1290145143/
+  [1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+  [1309go]: https://leetcode.com/submissions/detail/1913253559/
   [1313]: https://leetcode.com/problems/decompress-run-length-encoded-list/
   [1313cpp]: https://leetcode.com/submissions/detail/1051859265/
   [1315]: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
