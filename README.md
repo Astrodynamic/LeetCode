@@ -52,6 +52,7 @@
   | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp]       | Easy       |
   | 0700 | [Search in a Binary Search Tree][0700]                                     | [Golang][0700go]     | Easy       |
   | 0709 | [To Lower Case][0709]                                                      | [C++][0709cpp]       | Easy       |
+  | 0728 | [Self Dividing Numbers][0728]                                              | [Golang][0728go]     | Easy       |
   | 0771 | [Jewels and Stones][0771]                                                  | [C++][0771cpp]       | Easy       |
   | 0797 | [All Paths From Source to Target][0797]                                    | [C++][0797cpp]       | Medium     |
   | 0804 | [Unique Morse Code Words][0804]                                            | [C++][0804cpp]       | Easy       |
@@ -326,6 +327,8 @@
   [0700go]: https://leetcode.com/submissions/detail/1868220936/
   [0709]: https://leetcode.com/problems/to-lower-case/
   [0709cpp]: https://leetcode.com/submissions/detail/1057104517/
+  [0728]: https://leetcode.com/problems/self-dividing-numbers/
+  [0728go]: https://leetcode.com/submissions/detail/1916697906/
   [0771]: https://leetcode.com/problems/jewels-and-stones/
   [0771cpp]: https://leetcode.com/submissions/detail/1050861136/
   [0797]: https://leetcode.com/problems/all-paths-from-source-to-target/
