@@ -249,6 +249,7 @@
   | 3783 | [Mirror Distance of an Integer][3783]                                      | [Golang][3783go]     | Easy       |
   | 3794 | [Reverse String Prefix][3794]                                              | [Golang][3794go]     | Easy       |
   | 3823 | [Reverse Letters Then Special Characters in a String][3823]                | [Golang][3823go]     | Easy       |
+  | 3838 | [Weighted Word Mapping][3838]                                              | [Golang][3838go]     | Easy       |
 
   ## LICENSE
 
@@ -722,3 +723,5 @@
   [3794go]: https://leetcode.com/submissions/detail/1885792284/
   [3823]: https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/
   [3823go]: https://leetcode.com/submissions/detail/1908608410/
+  [3838]: https://leetcode.com/problems/weighted-word-mapping/
+  [3838go]: https://leetcode.com/submissions/detail/1921967144/
