@@ -38,6 +38,7 @@
   | 0219 | [Contains Duplicate II][0219]                                              | [C++][0219cpp]       | Easy       |
   | 0237 | [Delete Node in a Linked List][0237]                                       | [C++][0237cpp]       | Medium     |
   | 0260 | [Single Number III][0260]                                                  | [C++][0260cpp]       | Medium     |
+  | 0338 | [Counting Bits][0338]                                                      | [Golang][0338go]     | Easy       |
   | 0344 | [Reverse String][0344]                                                     | [C++][0344cpp]       | Easy       |
   | 0350 | [Intersection of Two Arrays II][0350]                                      | [C++][0350cpp]       | Easy       |
   | 0378 | [Ransom Note][0378]                                                        | [C++][0378cpp]       | Easy       |
@@ -302,6 +303,8 @@
   [0237cpp]: https://leetcode.com/submissions/detail/1249999235/
   [0260]: https://leetcode.com/problems/single-number-iii/
   [0260cpp]: https://leetcode.com/submissions/detail/1250149156/
+  [0338]: https://leetcode.com/problems/counting-bits/
+  [0338go]: https://leetcode.com/submissions/detail/1924021019/
   [0344]: https://leetcode.com/problems/reverse-string/
   [0344cpp]: https://leetcode.com/submissions/detail/1038001012/
   [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
