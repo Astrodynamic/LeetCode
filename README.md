@@ -231,6 +231,7 @@
   | 3304 | [Find the K-th Character in String Game I][3304]                           | [Golang][3304go]     | Easy       |
   | 3314 | [Construct the Minimum Bitwise Array I][3314]                              | [Golang][3314go]     | Easy       |
   | 3340 | [Check Balanced String][3340]                                              | [Golang][3340go]     | Easy       |
+  | 3370 | [Smallest Number With All Set Bits][3370]                                  | [Golang][3370go]     | Easy       |
   | 3427 | [Sum of Variable Length Subarrays][3427]                                   | [Golang][3427go]     | Easy       |
   | 3432 | [ Count Partitions with Even Sum Difference][3432]                         | [Golang][3432go]     | Easy       |
   | 3461 | [Check If Digits Are Equal in String After Operations I][3461]             | [Golang][3461go]     | Easy       |
@@ -689,6 +690,8 @@
   [3314go]: https://leetcode.com/submissions/detail/1891647299/
   [3340]: https://leetcode.com/problems/check-balanced-string/
   [3340go]: https://leetcode.com/submissions/detail/1889547492/
+  [3370]: https://leetcode.com/problems/smallest-number-with-all-set-bits/
+  [3370go]: https://leetcode.com/submissions/detail/1925851512/
   [3427]: https://leetcode.com/problems/sum-of-variable-length-subarrays/
   [3427go]: https://leetcode.com/submissions/detail/1850110484/
   [3432]: https://leetcode.com/problems/count-partitions-with-even-sum-difference/
