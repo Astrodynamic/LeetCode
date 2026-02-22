@@ -34,6 +34,7 @@
   | 0137 | [Single Number II][0137]                                                   | [C++][0137cpp]       | Medium     |
   | 0141 | [Linked List Cycle][0141]                                                  | [C++][0141cpp]       | Easy       |
   | 0203 | [Remove Linked List Elements][0203]                                        | [C++][0203cpp]       | Easy       |
+  | 0206 | [Reverse Linked List][0206]                                                | [Golang][0206go]     | Easy       |
   | 0217 | [Contains Duplicate][0217]                                                 | [C++][0217cpp]       | Easy       |
   | 0219 | [Contains Duplicate II][0219]                                              | [C++][0219cpp]       | Easy       |
   | 0237 | [Delete Node in a Linked List][0237]                                       | [C++][0237cpp]       | Medium     |
@@ -296,6 +297,8 @@
   [0141cpp]: https://leetcode.com/submissions/detail/1040027578/
   [0203]: https://leetcode.com/problems/remove-linked-list-elements/
   [0203cpp]: https://leetcode.com/submissions/detail/1250117737/
+  [0206]: https://leetcode.com/problems/reverse-linked-list/
+  [0206go]: https://leetcode.com/submissions/detail/1927169983/
   [0217]: https://leetcode.com/problems/contains-duplicate/
   [0217cpp]: https://leetcode.com/submissions/detail/1040044205/
   [0219]: https://leetcode.com/problems/contains-duplicate-ii/
