@@ -52,6 +52,7 @@
   | 0628 | [Maximum Product of Three Numbers][0628]                                   | [C++][0628cpp]       | Easy       |
   | 0654 | [Maximum Binary Tree][0654]                                                | [C++][0654cpp]       | Medium     |
   | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp]       | Easy       |
+  | 0682 | [ Baseball Game][0682]                                                     | [Golang][0682go]     | Easy       |
   | 0700 | [Search in a Binary Search Tree][0700]                                     | [Golang][0700go]     | Easy       |
   | 0709 | [To Lower Case][0709]                                                      | [C++][0709cpp]       | Easy       |
   | 0728 | [Self Dividing Numbers][0728]                                              | [Golang][0728go]     | Easy       |
@@ -334,6 +335,8 @@
   [0654cpp]: https://leetcode.com/submissions/detail/1300237881/
   [0680]: https://leetcode.com/problems/valid-palindrome-ii/
   [0680cpp]: https://leetcode.com/submissions/detail/1037968613/
+  [0682]: https://leetcode.com/problems/baseball-game/
+  [0682go]: https://leetcode.com/submissions/detail/1929122573/
   [0700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
   [0700go]: https://leetcode.com/submissions/detail/1868220936/
   [0709]: https://leetcode.com/problems/to-lower-case/
