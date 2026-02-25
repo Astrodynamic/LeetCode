@@ -172,6 +172,7 @@
   | 2396 | [Strictly Palindromic Number][2396]                                        | [C++][2396cpp]       | Medium     |
   | 2413 | [Smallest Even Multiple][2413]                                             | [C++][2413cpp]       | Easy       |
   | 2418 | [Sort the People][2418]                                                    | [C++][2418cpp]       | Easy       |
+  | 2427 | [Number of Common Factors][2427]                                           | [Golang][2427go]     | Easy       |
   | 2433 | [Find The Original Array of Prefix Xor][2433]                              | [C++][2433cpp]       | Medium     |
   | 2469 | [Convert the Temperature][2469]                                            | [C++][2469cpp]       | Easy       |
   | 2482 | [Difference Between Ones and Zeros in Row and Column][2482]                | [C++][2482cpp]       | Medium     |
@@ -575,6 +576,8 @@
   [2413cpp]: https://leetcode.com/submissions/detail/1050815450/
   [2418]: https://leetcode.com/problems/sort-the-people/
   [2418cpp]: https://leetcode.com/submissions/detail/1329359312/
+  [2427]: https://leetcode.com/problems/number-of-common-factors/
+  [2427go]: https://leetcode.com/submissions/detail/1930420673/
   [2433]: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
   [2433cpp]: https://leetcode.com/submissions/detail/1250163210/
   [2469]: https://leetcode.com/problems/convert-the-temperature/
