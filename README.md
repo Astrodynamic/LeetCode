@@ -67,6 +67,7 @@
   | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp]       | Easy       |
   | 0942 | [DI String Match][0942]                                                    | [Golang][0942go]     | Easy       |
   | 0950 | [Reveal Cards In Increasing Order][0950]                                   | [C++][0950cpp]       | Medium     |
+  | 0961 | [N-Repeated Element in Size 2N Array][0961]                                | [Golang][0961go]     | Easy       |
   | 1021 | [Remove Outermost Parentheses][1021]                                       | [C++][1021cpp]       | Easy       |
   | 1038 | [Binary Search Tree to Greater Sum Tree][1038]                             | [C++][1038cpp]       | Medium     |
   | 1051 | [Height Checker][1051]                                                     | [Golang][1051go]     | Easy       |
@@ -367,6 +368,8 @@
   [0942go]: https://leetcode.com/submissions/detail/1909727131/
   [0950]: https://leetcode.com/problems/reveal-cards-in-increasing-order/
   [0950cpp]: https://leetcode.com/submissions/detail/1338216339/
+  [0961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+  [0961go]: https://leetcode.com/submissions/detail/1932553945/
   [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
   [1021cpp]: https://leetcode.com/submissions/detail/1331929427/
   [1038]: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
