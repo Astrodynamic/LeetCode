@@ -37,6 +37,7 @@
   | 0206 | [Reverse Linked List][0206]                                                | [Golang][0206go]     | Easy       |
   | 0217 | [Contains Duplicate][0217]                                                 | [C++][0217cpp]       | Easy       |
   | 0219 | [Contains Duplicate II][0219]                                              | [C++][0219cpp]       | Easy       |
+  | 0226 | [Invert Binary Tree][0226]                                                 | [Golang][0226go]     | Easy       |
   | 0237 | [Delete Node in a Linked List][0237]                                       | [C++][0237cpp]       | Medium     |
   | 0260 | [Single Number III][0260]                                                  | [C++][0260cpp]       | Medium     |
   | 0338 | [Counting Bits][0338]                                                      | [Golang][0338go]     | Easy       |
@@ -308,6 +309,8 @@
   [0217cpp]: https://leetcode.com/submissions/detail/1040044205/
   [0219]: https://leetcode.com/problems/contains-duplicate-ii/
   [0219cpp]: https://leetcode.com/submissions/detail/1040064641/
+  [0226]: https://leetcode.com/problems/invert-binary-tree/
+  [0226go]: https://leetcode.com/submissions/detail/1933253349/
   [0237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
   [0237cpp]: https://leetcode.com/submissions/detail/1249999235/
   [0260]: https://leetcode.com/problems/single-number-iii/
