@@ -212,6 +212,7 @@
   | 2965 | [Find Missing and Repeated Values][2965]                                   | [Golang][2965go]     | Easy       |
   | 2974 | [Minimum Number Game][2974]                                                | [C++][2974cpp]       | Easy       |
   | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K][2997]          | [C++][2997cpp]       | Medium     |
+  | 3005 | [Count Elements With Maximum Frequency][3005]                              | [Golang][3005go]     | Easy       |
   | 3065 | [Minimum Operations to Exceed Threshold Value I][3065]                     | [C++][3065cpp]       | Easy       |
   | 3099 | [Harshad Number][3099]                                                     | [C++][3099cpp]       | Easy       |
   | 3010 | [Divide an Array Into Subarrays With Minimum Cost I][3010]                 | [Golang][3010go]     | Easy       |
@@ -659,6 +660,8 @@
   [2974cpp]: https://leetcode.com/submissions/detail/1292522444/
   [2997]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/
   [2997cpp]: https://leetcode.com/submissions/detail/1290174386/
+  [3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
+  [3005go]: https://leetcode.com/submissions/detail/1935569956/
   [3065]: https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
   [3065cpp]: https://leetcode.com/submissions/detail/1292491795/
   [3099]: https://leetcode.com/problems/harshad-number/
