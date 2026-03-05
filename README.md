@@ -129,6 +129,7 @@
   | 1769 | [Minimum Number of Operations to Move All Balls to Each Box][1769]         | [C++][1769cpp]       | Medium     |
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp]       | Easy       |
   | 1791 | [Find Center of Star Graph][1791]                                          | [C++][1791cpp]       | Easy       |
+  | 1812 | [Determine Color of a Chessboard Square][1812]                             | [Golang][1812go]     | Easy       |
   | 1816 | [ Truncate Sentence][1816]                                                 | [C++][1816cpp]       | Easy       |
   | 1823 | [Find the Winner of the Circular Game][1823]                               | [C++][1823cpp]       | Medium     |
   | 1827 | [Minimum Operations to Make the Array Increasing][1827]                    | [Golang][1827go]     | Easy       |
@@ -495,6 +496,8 @@
   [1773cpp]: https://leetcode.com/submissions/detail/1054791343/
   [1791]: https://leetcode.com/problems/find-center-of-star-graph/
   [1791cpp]: https://leetcode.com/submissions/detail/1301736645/
+  [1812]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+  [1812go]: https://leetcode.com/submissions/detail/1938559611/
   [1816]: https://leetcode.com/problems/truncate-sentence/
   [1816cpp]: https://leetcode.com/submissions/detail/1054767591/
   [1823]: https://leetcode.com/problems/find-the-winner-of-the-circular-game/
