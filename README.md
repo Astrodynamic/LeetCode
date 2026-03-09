@@ -125,6 +125,7 @@
   | 1725 | [Number Of Rectangles That Can Form The Largest Square][1725]              | [C++][1725cpp]       | Easy       |
   | 1732 | [Find the Highest Altitude][1732]                                          | [C++][1732cpp]       | Easy       |
   | 1735 | [Count Ways to Make Array With Product][1735]                              | [C++][1735cpp]       | Hard       |
+  | 1748 | [Sum of Unique Elements][1748]                                             | [Golang][1748go]     | Easy       |
   | 1768 | [Merge Strings Alternately][1768]                                          | [Golang][1768go]     | Easy       |
   | 1769 | [Minimum Number of Operations to Move All Balls to Each Box][1769]         | [C++][1769cpp]       | Medium     |
   | 1773 | [Count Items Matching a Rule][1773]                                        | [C++][1773cpp]       | Easy       |
@@ -489,6 +490,8 @@
   [1732cpp]: https://leetcode.com/submissions/detail/1328256957/
   [1735]: https://leetcode.com/problems/count-ways-to-make-array-with-product/
   [1735cpp]: https://leetcode.com/submissions/detail/1249984015/
+  [1748]: https://leetcode.com/problems/sum-of-unique-elements/
+  [1748go]: https://leetcode.com/submissions/detail/1942489059/
   [1768]: https://leetcode.com/problems/merge-strings-alternately/
   [1768go]: https://leetcode.com/submissions/detail/1890489870/
   [1769]: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
