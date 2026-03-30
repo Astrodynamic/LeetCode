@@ -265,6 +265,7 @@
   | 3794 | [Reverse String Prefix][3794]                                              | [Golang][3794go]     | Easy       |
   | 3823 | [Reverse Letters Then Special Characters in a String][3823]                | [Golang][3823go]     | Easy       |
   | 3838 | [Weighted Word Mapping][3838]                                              | [Golang][3838go]     | Easy       |
+  | 3884 | [First Matching Character From Both Ends][3884]                            | [Golang][3884go]     | Easy       |
 
   ## LICENSE
 
@@ -770,3 +771,5 @@
   [3823go]: https://leetcode.com/submissions/detail/1908608410/
   [3838]: https://leetcode.com/problems/weighted-word-mapping/
   [3838go]: https://leetcode.com/submissions/detail/1921967144/
+  [3884]: https://leetcode.com/problems/first-matching-character-from-both-ends/
+  [3884go]: https://leetcode.com/submissions/detail/1963554152/
