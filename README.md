@@ -28,6 +28,7 @@
   | 0066 | [Plus One][0066]                                                           | [C++][0066cpp]       | Easy       |
   | 0067 | [Add Binary][0067]                                                         | [C++][0067cpp]       | Easy       |
   | 0069 | [Sqrt(x)][0069]                                                            | [C++][0069cpp]       | Easy       |
+  | 0094 | [Binary Tree Inorder Traversal][0094]                                      | [Golang][0094go]     | Easy       |
   | 0121 | [Best Time to Buy and Sell Stock][0121]                                    | [C++][0121cpp]       | Easy       |
   | 0125 | [Valid Palindrome][0125]                                                   | [C++][0125cpp]       | Easy       |
   | 0136 | [Single Number][0136]                                                      | [C++][0136cpp]       | Easy       |
@@ -297,6 +298,8 @@
   [0067cpp]: https://leetcode.com/submissions/detail/1037990830/
   [0069]: https://leetcode.com/problems/sqrtx
   [0069cpp]: https://leetcode.com/submissions/detail/1143379297/
+  [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+  [0094go]: https://leetcode.com/submissions/detail/1966633856/
   [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
   [0121cpp]: https://leetcode.com/submissions/detail/1037934208/
   [0125]: https://leetcode.com/problems/valid-palindrome/
