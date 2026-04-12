@@ -267,6 +267,7 @@
   | 3823 | [Reverse Letters Then Special Characters in a String][3823]                | [Golang][3823go]     | Easy       |
   | 3838 | [Weighted Word Mapping][3838]                                              | [Golang][3838go]     | Easy       |
   | 3884 | [First Matching Character From Both Ends][3884]                            | [Golang][3884go]     | Easy       |
+  | 3898 | [Find the Degree of Each Vertex][3898]                                     | [Golang][3898go]     | Easy       |
 
   ## LICENSE
 
@@ -776,3 +777,5 @@
   [3838go]: https://leetcode.com/submissions/detail/1921967144/
   [3884]: https://leetcode.com/problems/first-matching-character-from-both-ends/
   [3884go]: https://leetcode.com/submissions/detail/1963554152/
+  [3898]: https://leetcode.com/problems/find-the-degree-of-each-vertex/
+  [3898go]: https://leetcode.com/submissions/detail/1976538312/
