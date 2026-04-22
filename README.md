@@ -88,6 +88,7 @@
   | 1323 | [Maximum 69 Number][1323]                                                  | [C++][1323cpp]       | Easy       |
   | 1329 | [Sort the Matrix Diagonally][1329]                                         | [C++][1329cpp]       | Medium     |
   | 1342 | [Number of Steps to Reduce a Number to Zero][1342]                         | [C++][1342cpp]       | Easy       |
+  | 1351 | [Count Negative Numbers in a Sorted Matrix][1351]                          | [Golang][1351go]     | Easy       |
   | 1356 | [Sort Integers by The Number of 1 Bits][1356]                              | [Golang][1356go]     | Easy       |
   | 1365 | [How Many Numbers Are Smaller Than the Current Number][1365]               | [C++][1365cpp]       | Easy       |
   | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379] | [C++][1379cpp]       | Easy       |
@@ -423,6 +424,8 @@
   [1329cpp]: https://leetcode.com/submissions/detail/1341659351/
   [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
   [1342cpp]: https://leetcode.com/submissions/detail/1036875175/
+  [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+  [1351go]: https://leetcode.com/submissions/detail/1985106961/
   [1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
   [1356go]: https://leetcode.com/submissions/detail/1931414258/
   [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
