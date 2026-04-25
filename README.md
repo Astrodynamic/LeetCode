@@ -97,6 +97,7 @@
   | 1389 | [Create Target Array in the Given Order][1389]                             | [C++][1389cpp]       | Easy       |
   | 1409 | [Queries on a Permutation With Key][1409]                                  | [C++][1409cpp]       | Medium     |
   | 1431 | [Kids With the Greatest Number of Candies][1431]                           | [C++][1431cpp]       | Easy       |
+  | 1436 | [Destination City][1436]                                                   | [Golang][1436go]     | Easy       |
   | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR][1442]               | [C++][1442cpp]       | Medium     |
   | 1464 | [Maximum Product of Two Elements in an Array][1464]                        | [C++][1464cpp]       | Easy       |
   | 1470 | [Shuffle the Array][1470]                                                  | [C++][1470cpp]       | Easy       |
@@ -444,6 +445,8 @@
   [1409cpp]: https://leetcode.com/submissions/detail/1269377872/
   [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
   [1431cpp]: https://leetcode.com/submissions/detail/1050820950/
+  [1436]: https://leetcode.com/problems/destination-city/
+  [1436go]: https://leetcode.com/submissions/detail/1987574263/
   [1442]: https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
   [1442cpp]: https://leetcode.com/submissions/detail/1250177461/
   [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
