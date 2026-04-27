@@ -149,6 +149,7 @@
   | 1920 | [Build Array from Permutation][1920]                                       | [C++][1920cpp]       | Easy       |
   | 1929 | [Concatenation of Array][1929]                                             | [C++][1929cpp]       | Easy       |
   | 1935 | [Maximum Number of Words You Can Type][1935]                               | [Golang][1935go]     | Easy       |
+  | 1941 | [Check if All Characters Have Equal Number of Occurrences][1941]           | [Golang][1941go]     | Easy       |
   | 1945 | [Sum of Digits of String After Convert][1945]                              | [C++][1945cpp]       | Easy       |
   | 1967 | [Number of Strings That Appear as Substrings in Word][1967]                | [Golang][1967go]     | Easy       |
   | 1979 | [Find Greatest Common Divisor of Array][1979]                              | [Golang][1979go]     | Easy       |
@@ -549,6 +550,8 @@
   [1929cpp]: https://leetcode.com/submissions/detail/1047738300/
   [1935]: https://leetcode.com/problems/maximum-number-of-words-you-can-type/
   [1935go]: https://leetcode.com/submissions/detail/1859464067/
+  [1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+  [1941go]: https://leetcode.com/submissions/detail/1989208087/
   [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
   [1945cpp]: https://leetcode.com/submissions/detail/1379075327/
   [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
