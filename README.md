@@ -263,6 +263,7 @@
   | 3541 | [Find Most Frequent Vowel and Consonant][3541]                             | [Golang][3541go]     | Easy       |
   | 3550 | [Smallest Index With Digit Sum Equal to Index][3550]                       | [Golang][3550go]     | Easy       |
   | 3602 | [Hexadecimal and Hexatrigesimal Conversion][3602]                          | [Golang][3602go]     | Easy       |
+  | 3643 | [Flip Square Submatrix Vertically][3643]                                   | [Golang][3643go]     | Easy       |
   | 3658 | [GCD of Odd and Even Sums][3658]                                           | [Golang][3658go]     | Easy       |
   | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
@@ -778,6 +779,8 @@
   [3550go]: https://leetcode.com/submissions/detail/1928605057/
   [3602]: https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/
   [3602go]: https://leetcode.com/submissions/detail/1911878495/
+  [3643]: https://leetcode.com/problems/flip-square-submatrix-vertically/
+  [3643go]: https://leetcode.com/submissions/detail/1990020951/
   [3658]: https://leetcode.com/problems/gcd-of-odd-and-even-sums/
   [3658go]: https://leetcode.com/submissions/detail/1856966963/
   [3701]: https://leetcode.com/problems/compute-alternating-sum/
