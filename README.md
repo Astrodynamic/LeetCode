@@ -118,6 +118,7 @@
   | 1630 | [Arithmetic Subarrays][1630]                                               | [C++][1630cpp]       | Medium     |
   | 1636 | [Sort Array by Increasing Frequency][1636]                                 | [C++][1636cpp]       | Easy       |
   | 1637 | [Widest Vertical Area Between Two Points Containing No Points][1637]       | [C++][1637cpp]       | Easy       |
+  | 1652 | [Defuse the Bomb][1652]                                                    | [Golang][1652go]     | Easy       |
   | 1656 | [Design an Ordered Stream][1656]                                           | [C++][1656cpp]       | Easy       |
   | 1662 | [Check If Two String Arrays are Equivalent][1662]                          | [C++][1662cpp]       | Easy       |
   | 1672 | [Richest Customer Wealth][1672]                                            | [C++][1672cpp]       | Easy       |
@@ -489,6 +490,8 @@
   [1636cpp]: https://leetcode.com/submissions/detail/1330423768/
   [1637]: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points
   [1637cpp]: https://leetcode.com/submissions/detail/1146584700/
+  [1652]: https://leetcode.com/problems/defuse-the-bomb/
+  [1652go]: https://leetcode.com/submissions/detail/1990835569/
   [1656]: https://leetcode.com/problems/design-an-ordered-stream/
   [1656cpp]: https://leetcode.com/submissions/detail/1053801183/
   [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
