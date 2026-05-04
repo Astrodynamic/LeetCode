@@ -279,6 +279,7 @@
   | 3884 | [First Matching Character From Both Ends][3884]                            | [Golang][3884go]     | Easy       |
   | 3894 | [Traffic Signal Color][3894]                                               | [Golang][3894go]     | Easy       |
   | 3898 | [Find the Degree of Each Vertex][3898]                                     | [Golang][3898go]     | Easy       |
+  | 3917 | [Count Indices With Opposite Parity][3917]                                 | [Golang][3917go]     | Easy       |
 
   ## LICENSE
 
@@ -812,3 +813,5 @@
   [3894go]: https://leetcode.com/submissions/detail/1980812815/
   [3898]: https://leetcode.com/problems/find-the-degree-of-each-vertex/
   [3898go]: https://leetcode.com/submissions/detail/1976538312/
+  [3917]: https://leetcode.com/problems/count-indices-with-opposite-parity/
+  [3917go]: https://leetcode.com/submissions/detail/1994748343/
