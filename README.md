@@ -237,6 +237,7 @@
   | 3151 | [Special Array][3151]                                                      | [Golang][3151go]     | Easy       |
   | 3158 | [Find the XOR of Numbers Which Appear Twice][3158]                         | [C++][3158cpp]       | Easy       |
   | 3162 | [Find the Number of Good Pairs I][3162]                                    | [C++][3162cpp]       | Easy       |
+  | 3168 | [Minimum Number of Chairs in a Waiting Room][3168]                         | [Golang][3168go]     | Easy       |
   | 3174 | [Clear Digits][3174]                                                       | [Golang][3174go]     | Easy       |
   | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three][3190]    | [C++][3190cpp]       | Easy       |
   | 3194 | [Minimum Average of Smallest and Largest Elements][3194]                   | [C++][3194cpp]       | Easy       |
@@ -729,6 +730,8 @@
   [3158cpp]: https://leetcode.com/submissions/detail/1381032632/
   [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
   [3162cpp]: https://leetcode.com/submissions/detail/1290184663/
+  [3168]: https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/
+  [3168go]: https://leetcode.com/submissions/detail/1995608590/
   [3174]: https://leetcode.com/problems/clear-digits/
   [3174go]: https://leetcode.com/submissions/detail/1863049788/
   [3190]: https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
