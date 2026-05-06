@@ -173,6 +173,7 @@
   | 2185 | [Counting Words With a Given Prefix][2185]                                 | [Golang][2185go]     | Easy       |
   | 2188 | [Merge Nodes in Between Zeros][2188]                                       | [C++][2188cpp]       | Medium     |
   | 2194 | [Cells in a Range on an Excel Sheet][2194]                                 | [C++][2194cpp]       | Easy       |
+  | 2206 | [Divide Array Into Equal Pairs][2206]                                      | [Golang][2206go]     | Easy       |
   | 2215 | [Find the Difference of Two Arrays][2215]                                  | [Golang][2215go]     | Easy       |
   | 2220 | [Minimum Bit Flips to Convert Number][2220]                                | [C++][2220cpp]       | Easy       |
   | 2236 | [Root Equals Sum of Children][2236]                                        | [C++][2236cpp]       | Easy       |
@@ -602,6 +603,8 @@
   [2188cpp]: https://leetcode.com/submissions/detail/1290371505/
   [2194]: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
   [2194cpp]: https://leetcode.com/submissions/detail/1054783152/
+  [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
+  [2206go]: https://leetcode.com/submissions/detail/1996497408/
   [2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
   [2215go]: https://leetcode.com/submissions/detail/1905024822/
   [2220]: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
