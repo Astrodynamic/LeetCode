@@ -209,6 +209,7 @@
   | 2697 | [Lexicographically Smallest Palindrome][2697]                              | [C++][2697cpp]       | Easy       |
   | 2703 | [Return Length of Arguments Passed][2703]                                  | [JavaScript][2703js] | Easy       |
   | 2710 | [Remove Trailing Zeros From a String][2710]                                | [Golang][2710go]     | Easy       |
+  | 2716 | [Minimize String Length][2716]                                             | [Golang][2716go]     | Easy       |
   | 2744 | [Find Maximum Number of String Pairs][2744]                                | [Golang][2744go]     | Easy       |
   | 2769 | [Find the Maximum Achievable Number][2769]                                 | [C++][2769cpp]       | Easy       |
   | 2778 | [Sum of Squares of Special Elements][2778]                                 | [Golang][2778go]     | Easy       |
@@ -675,6 +676,8 @@
   [2703js]: https://leetcode.com/submissions/detail/1251128177/
   [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
   [2710go]: https://leetcode.com/submissions/detail/1986806851/
+  [2716]: https://leetcode.com/problems/minimize-string-length/
+  [2716go]: https://leetcode.com/submissions/detail/1997205007/
   [2744]: https://leetcode.com/problems/find-maximum-number-of-string-pairs/
   [2744go]: https://leetcode.com/submissions/detail/1888386213/
   [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
