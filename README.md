@@ -51,6 +51,7 @@
   | 0557 | [Reverse Words in a String III][0557]                                      | [C++][0557cpp]       | Easy       |
   | 0561 | [Array Partition][0561]                                                    | [Golang][0561go]     | Easy       |
   | 0590 | [N-ary Tree Postorder Traversal][0590]                                     | [Golang][0590go]     | Easy       |
+  | 0617 | [Merge Two Binary Trees][0617]                                             | [Golang][0617go]     | Easy       |
   | 0628 | [Maximum Product of Three Numbers][0628]                                   | [C++][0628cpp]       | Easy       |
   | 0654 | [Maximum Binary Tree][0654]                                                | [C++][0654cpp]       | Medium     |
   | 0680 | [Valid Palindrome II][0680]                                                | [C++][0680cpp]       | Easy       |
@@ -360,6 +361,8 @@
   [0561go]: https://leetcode.com/submissions/detail/1902504139/
   [0590]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
   [0590go]: https://leetcode.com/submissions/detail/1906296798/
+  [0617]: https://leetcode.com/problems/merge-two-binary-trees/
+  [0617go]: https://leetcode.com/submissions/detail/1998008987/
   [0628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
   [0628cpp]: https://leetcode.com/submissions/detail/1037692372/
   [0654]: https://leetcode.com/problems/maximum-binary-tree/
