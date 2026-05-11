@@ -284,6 +284,7 @@
   | 3894 | [Traffic Signal Color][3894]                                               | [Golang][3894go]     | Easy       |
   | 3898 | [Find the Degree of Each Vertex][3898]                                     | [Golang][3898go]     | Easy       |
   | 3917 | [Count Indices With Opposite Parity][3917]                                 | [Golang][3917go]     | Easy       |
+  | 3925 | [Concatenate Array With Reverse][3925]                                     | [Golang][3925go]     | Easy       |
 
   ## LICENSE
 
@@ -827,3 +828,5 @@
   [3898go]: https://leetcode.com/submissions/detail/1976538312/
   [3917]: https://leetcode.com/problems/count-indices-with-opposite-parity/
   [3917go]: https://leetcode.com/submissions/detail/1994748343/
+  [3925]: https://leetcode.com/problems/concatenate-array-with-reverse/
+  [3925go]: https://leetcode.com/submissions/detail/2000658274/
