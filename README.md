@@ -67,6 +67,7 @@
   | 0876 | [Middle of the Linked List][0876]                                          | [C++][0876cpp]       | Easy       |
   | 0885 | [Spiral Matrix III][0885]                                                  | [C++][0885cpp]       | Medium     |
   | 0894 | [All Possible Full Binary Trees][0894]                                     | [C++][0894cpp]       | Medium     |
+  | 0897 | [Increasing Order Search Tree][0897]                                       | [Golang][0897go]     | Easy       |
   | 0938 | [Range Sum of BST][0938]                                                   | [C++][0938cpp]       | Easy       |
   | 0942 | [DI String Match][0942]                                                    | [Golang][0942go]     | Easy       |
   | 0950 | [Reveal Cards In Increasing Order][0950]                                   | [C++][0950cpp]       | Medium     |
@@ -395,6 +396,8 @@
   [0885cpp]: https://leetcode.com/submissions/detail/1354426992/
   [0894]: https://leetcode.com/problems/all-possible-full-binary-trees/
   [0894cpp]: https://leetcode.com/submissions/detail/1336071922/
+  [0897]: https://leetcode.com/problems/increasing-order-search-tree/
+  [0897go]: https://leetcode.com/submissions/detail/2002005037/
   [0938]: https://leetcode.com/problems/range-sum-of-bst/
   [0938cpp]: https://leetcode.com/submissions/detail/1051825768/
   [0942]: https://leetcode.com/problems/di-string-match/
