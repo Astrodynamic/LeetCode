@@ -275,6 +275,7 @@
   | 3701 | [Compute Alternating Sum][3701]                                            | [Golang][3701go]     | Easy       |
   | 3668 | [Restore Finishing Order][3668]                                            | [Golang][3668go]     | Easy       |
   | 3683 | [Earliest Time to Finish One Task][3683]                                   | [Golang][3683go]     | Easy       |
+  | 3684 | [Maximize Sum of At Most K Distinct Elements][3684]                        | [Golang][3684go]     | Easy       |
   | 3688 | [Bitwise OR of Even Numbers in an Array][3688]                             | [Golang][3688go]     | Easy       |
   | 3731 | [Find Missing Elements][3731]                                              | [Golang][3731go]     | Easy       |
   | 3736 | [Minimum Moves to Equal Array Elements III][3736]                          | [Golang][3736go]     | Easy       |
@@ -812,6 +813,8 @@
   [3668go]: https://leetcode.com/submissions/detail/1843288525/
   [3683]: https://leetcode.com/problems/earliest-time-to-finish-one-task/
   [3683go]: https://leetcode.com/submissions/detail/1855156296/
+  [3684]: https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/
+  [3684go]: https://leetcode.com/submissions/detail/2002837632/
   [3688]: https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/
   [3688go]: https://leetcode.com/submissions/detail/1861085921/
   [3731]: https://leetcode.com/problems/find-missing-elements/
