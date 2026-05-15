@@ -208,6 +208,7 @@
   | 2652 | [Sum Multiples][2652]                                                      | [C++][2652cpp]       | Easy       |
   | 2656 | [Maximum Sum With Exactly K Elements][2656]                                | [C++][2656cpp]       | Easy       |
   | 2678 | [Number of Senior Citizens][2678]                                          | [C++][2678cpp]       | Easy       |
+  | 2696 | [Minimum String Length After Removing Substrings][2696]                    | [Golang][2696go]     | Easy       |
   | 2697 | [Lexicographically Smallest Palindrome][2697]                              | [C++][2697cpp]       | Easy       |
   | 2703 | [Return Length of Arguments Passed][2703]                                  | [JavaScript][2703js] | Easy       |
   | 2710 | [Remove Trailing Zeros From a String][2710]                                | [Golang][2710go]     | Easy       |
@@ -679,6 +680,8 @@
   [2656cpp]: https://leetcode.com/submissions/detail/1379110954/
   [2678]: https://leetcode.com/problems/number-of-senior-citizens/
   [2678cpp]: https://leetcode.com/submissions/detail/1340677723/
+  [2696]: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
+  [2696go]: https://leetcode.com/submissions/detail/2003725783/
   [2697]: https://leetcode.com/problems/lexicographically-smallest-palindrome/
   [2697cpp]: https://leetcode.com/submissions/detail/1379203834/
   [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
