@@ -236,6 +236,7 @@
   | 3099 | [Harshad Number][3099]                                                     | [C++][3099cpp]       | Easy       |
   | 3010 | [Divide an Array Into Subarrays With Minimum Cost I][3010]                 | [Golang][3010go]     | Easy       |
   | 3019 | [Number of Changing Keys][3019]                                            | [Golang][3019go]     | Easy       |
+  | 3074 | [Apple Redistribution into Boxes][3074]                                    | [Golang][3074go]     | Easy       |
   | 3110 | [Score of a String][3110]                                                  | [C++][3110cpp]       | Easy       |
   | 3131 | [Find the Integer Added to Array I][3131]                                  | [C++][3131cpp]       | Easy       |
   | 3146 | [Permutation Difference between Two Strings][3146]                         | [C++][3146cpp]       | Easy       |
@@ -737,6 +738,8 @@
   [3010go]: https://leetcode.com/submissions/detail/1917561890/
   [3019]: https://leetcode.com/problems/number-of-changing-keys/
   [3019go]: https://leetcode.com/submissions/detail/1923089763/
+  [3074]: https://leetcode.com/problems/apple-redistribution-into-boxes/
+  [3074go]: https://leetcode.com/submissions/detail/2007996290/
   [3110]: https://leetcode.com/problems/score-of-a-string/
   [3110cpp]: https://leetcode.com/submissions/detail/1251138857/
   [3131]: https://leetcode.com/problems/find-the-integer-added-to-array-i/
